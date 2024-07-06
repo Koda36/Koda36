@@ -1,0 +1,702 @@
+{
+     "ProduitsServices": [
+         {
+             "Nom": "321",
+             "Description du produit": "<br>Le 321 est un service qui permet aux abonnés de bénéficier d'informations  et de conseils sur l'agriculture en appelant le 321. Accessible via IVR.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 321<br>",
+             "Prix": "<br>25f à partir du 4ème appel du mois<br>",
+             "link": "Abonnement Canal sat via OM "
+         },
+         {
+             "Nom": "Abonnement Canal sat via OM ",
+             "Description du produit": "<br>Procédure : *144*4*2*4# et choisir soit <br> <br> 1- Réabonnement ( *144*4*2*4*1*2*Numéro de carte décodeur# OK puis entrer code PIN )<br> 2- Changement d'offre ( *144*4*2*4*2*2# Ensuite Choisir la formule en répondant avec le chiffre de la formule désirée ( 1 pour Evasion plus - 2 pour Acces plus - 3 pour Evasion - 4 pour Essentiel plus - 5 pour Acces - 6 pour Tout canal - 7 pour Iroko plus ) Entrer ensuite la durée de l'abonnement et code PIN <br> 3- Régularisation : La régularisation s'applique uniquement aux abonnés en prélèvement bancaire ayant un impayé <br> 4- Mémorisation : *144*4*2*4*4*1*Numéro de carte décodeur # puis code PIN <br>"
+         },
+         {
+             "Nom": "Achat d'unités par ORANGE MONEY",
+             "Description du produit": "<br>Pour soi même:  *144*1*1* Montant d'unité à acheter# Confirmer les informations saisies et saisir son code PIN<br><br>Pour une autre personne :  *144*1*2*Numéro à recharger* Montant d'unité# Confirmer les informations saisies et saisir son code PIN<br>"
+         },
+         {
+             "Nom": "Actualité Boursière 310 ",
+             "Description du produit": "<br>Toute l'actualité financière de la BRVM et de l'agence Ecofin par SMS <br>",
+             "Procédure de souscription": "<br>Pour souscrire: *310#<br>Désactivation: STOP au 310<br>",
+             "Prix": "<br>25F / JOUR <br>100F / SEMAINE<br>400F / MOIS <br>Consultation : 25 F<br>"
+         },
+         {
+             "Nom": "Actualité Hyppique ",
+             "Description du produit": "<br>Service permettant de recevoir lactualité hyppique par SMS<br>",
+             "Procédure de souscription": "<br>3303 par SMS<br>Consultations: envoyez  P par SMS au 3303<br>Procédure de désinscription : Envoyer STOP au 3074 OU *3303*0#<br>",
+             "Prix": "<br>53F/SMS<br>"
+         },
+         {
+             "Nom": "Alerte foot",
+             "Description du produit": "<br>Foot alerte est un service qui permet aux clients qui y souscrivent de recevoir des alertes sur le football. Accessible via SMS/USSD.<br>",
+             "Procédure de souscription": "<br>*526#<br>Procédure de désinscription: *526# puis 3<br>",
+             "Prix": "<br>10/ jour<br>100/ semaine<br>400/ mois<br>"
+         },
+         {
+             "Nom": "Alertes Bourses Etudes (Dayala compagnie)",
+             "Description du produit": "<br>Service permettant de recevoir les offres de bourses par SMS. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire :  *3509#<br>Procédure de désinscription : *3509*0#<br>",
+             "Prix": "<br>28F/Jour<br>105F/semaine<br>420F/mois<br>"
+         },
+         {
+             "Nom": "Allo Muzik",
+             "Description du produit": "<br>Service qui permet aux abonnées d'accueillir leurs correspondants avec la musique de leur choix. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire : Appel au 3505<br>Procédure de désinscription : *355*5# ou envoyer STOP par SMS au 3505<br>",
+             "Prix": "<br>Souscription : 100    <br>Tonalité : 150  <br>validité: 1 mois<br>"
+         },
+         {
+             "Nom": "Appel en conference",
+             "Description du produit": "<br>La Conférence d'appel est un service qui donne la possibilité à un abonné de discuter avec deux ou plusieurs correspondants en même temps. L’initiateur peut appeler 5 personnes en même temps. Donc 6 personnes peuvent communiquer au même moment<br>",
+             "Avantages": "<br>1.Discuter simultanément avec plusieurs personnes (réunion famille, travail, etc.)<br>2.Très efficace lorsque vous voulez faire une surprise à plusieurs personnes en même temps<br>3.Gain de temps<br>4.Cinq personnes au maxi plus l’initiateur<br>",
+             "Procédure de souscription": "<br>Le client émet un 1er appel, met son correspondant en attente ensuite il émet un 2eme appel une fois que son 2nd correspondant répond, il sélectionne option sur son combiné et valide sur fusionner ou établir conférence (selon l’option du téléphone) <br>",
+             "Prix": "<br>Gratuit<br>Conférence téléphonique<br>Sans engagement<br>"
+         },
+         {
+             "Nom": "Avantages SIM Etalon",
+             "Description du produit": "<br>Avec la SIM Orange à 250FCFA vous gagnez : <br><br>300 % de bonus sur toutes les 1ères recharges du mois pendant 03 mois et valable tout réseaux,<br>1500 Mo soit 500Mo par mois pendant 3 mois <br>900 SMS soit 300SMS par mois pendant 3 mois <br>15 Min offerts au 4e mois <br>200F sur le compte OM pour les nouveaux clients <br>"
+         },
+         {
+             "Nom": "BANGRE SMS",
+             "Description du produit": "<br>Permet de s'exercer via des QCM, pour la préparation des examens de classe. Accessible via SMS / USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire:  *424#<br>Procédure de désinscription: STOP par SMS au 424<br>",
+             "Prix": "<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>"
+         },
+         {
+             "Nom": "BEST ENGLISH",
+             "Description du produit": "<br>BEST ENGLISH  ou « Mes cours d’anglais » est un contenu qui dispose de plusieurs  cours d’anglais en ligne avec une méthode accélérée pour apprendre de manière intensive.<br>Ce sont des cours d’anglais complets, pratiques et divertissants destinés exclusivement aux francophones.<br>",
+             "Procédure de souscription": "<br>Souscription sans renouvellement (one shot) : 200F<br><br>Désactivation : Envoyer STOP au 454"
+         },
+         {
+             "Nom": "Bref 24 ",
+             "Description du produit": "<br>Ce service permet aux clients de recevoir les actualités via le média en ligne Bref24 <br>Souscription *310# et choisir l'option 2 <br>Tarif semaine : 100F<br>Tarif mois : 400F<br>"
+         },
+         {
+             "Nom": "BURKINA24",
+             "Description du produit": "<br>Un service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média en ligne B24. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: *337#.<br>Procédure de désinscription: *337# puis suivre les instructions <br>",
+             "Prix": "<br>Consultation: 25F<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>"
+         },
+         {
+             "Nom": "Busuu BF",
+             "Description du produit": "<br>Busuu BF est une plateforme d’apprentissage linguistique avec une offre étendue de 14 langues mondiales afin de transformez chaque leçon en une opportunité de connexion, de découverte et de croissance personnelle. ",
+             "Procédure de souscription": "<br>*Souscription à 200F/Jour<br>*Achat à l’acte 350F<br><br>Désactivation : STOP BU au 452.<br>"
+         },
+         {
+             "Nom": "Buzz-Mobi - DIGITALVIRGOHYB",
+             "Description du produit": "<br>Il s'agit d'un réseau avec applications, jeux, vidéos, photos etc... <br>Souscription JOUR : 105F (reconductible tacitement ) ou en sélectionnant l'achat à l'acte pour 263F/jour <br>",
+             "Procédure de souscription": "<br>Procédure de désactivation : STOP BUZZ au 452 (coût du sms : 0F) <br>"
+         },
+         {
+             "Nom": "Celebrity",
+             "Description du produit": "<br>Le service \"Celebrity\" permet aux abonnés de suivre l'actualité d'une célébrité en écoutant les messages qui leur laisse quotidiennement. Accessible via USSD/IVR.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: *314#<br>Procédure de désinscription: Par SMS STOPSOUKEJOUR au 314<br>",
+             "Prix": "<br>Jour: 25F          <br>Semaine: 100F  <br>"
+         },
+         {
+             "Nom": "Clicnscore",
+             "Description du produit": "<br>Clicnscore est un service qui permet de suivre tous les résultats sportifs en direct, d’avoir toujours les derniers résultats et classements de vos équipes.  <br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
+             "Prix": "<br>Pass jour: <br>105 FCFA<br>"
+         },
+         {
+             "Nom": "COACHING SMS",
+             "Description du produit": "<br>Service de coaching par SMS. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *248#<br>Procédure de désinscription: *248*3#<br>",
+             "Prix": "<br>28/Consultations<br>11f/SMS<br>"
+         },
+         {
+             "Nom": "CPT BONUS",
+             "Description du produit": "<br>Montant minimum par transfert : 100F<br>Montant maximum par transfert : 10 000F<br>Nombre de transfert par jour : 5<br>Facturation par transfert : 53F ( sur le compte principal)<br>Validité : 1 jour <br>",
+             "Procédure de souscription": "<br>*147*montant* numéro orange du correspondant#<br>",
+             "Prix": "<br>Facturation par transfert : 55F ( sur le compte principal)<br>"
+         },
+         {
+             "Nom": "CPT International",
+             "Description du produit": "<br>Le client Orange Burkina a la possibilité de se faire recharger par ses correspondants depuis l'étranger <br><br>Depuis l'étranger le client peut recharger le compte principal de son correspondant au Burkina. Les valeures rechargeables sont 3€, 7.50€, 15€, 30€<br><br>Il existe 2 principaux canaux de rechargement qui sont : <br>1. Point de vente physique ( carte à gratter ) <br>2. Site web ( www.transfertpays.orange.com) <br><br>Les clients rechargés au Burkina bénéficient des mêmes avantages liés à la recharge classiue du sap sap<br>"
+         },
+         {
+             "Nom": "CPT MEGA",
+             "Description du produit": "<br>Le nombre de transaction Me2u est limité à 10 par jour <br>30 Méga par tranfert maximum<br>Validité : 1 jour peu importe le volume<br>",
+             "Procédure de souscription": "*303# OK ensuite saisir numéro et choisir : <br>5 Mo<br>10 Mo<br>30 Mo",
+             "Prix": "<br>Coût de la transaction : 30F<br>"
+         },
+         {
+             "Nom": "CPT Unité 432",
+             "Description du produit": "<br>Le Me2U ( C'est Pour Toi ) est un service de transfert de crédit accessible à tous les utilisateurs prépayés de Orange, il permet à un abonné d'envoyer du crédit à un autre abonné Orange à partir du téléphone.<br>Le mot de passe standard est 1234 et devrait être changé avant toute utilisation <br><br>03 transactions maximum par jour<br>Le montant maximum à transférer est de 2000F<br>Le montant miniimum à transférer est de 100F<br>Toute transaction effectuée est irreversible <br><br>Envoyez cpt [ espace ] Numéro [ espace ] Montant [ espace ] Mot de passe par SMS au 432. Le MDP standard est 1234 <br>Exemple : pour envoyer 1 000F au 66626138 -----› cpt 66626138 1000 1234 <br><br>Pour changer le code pin : pin [ ] ancien MDP [  ] nouveau MDP -----› exple: pin 1234 5678<br>",
+             "Prix": "<br>Coût unique par transfert à travers le Me2U = 32F<br>Coût unique pour le changement du mot de passe = 32 F<br>"
+         },
+         {
+             "Nom": "Ctqui 222",
+             "Description du produit": "<br>Lorsque l'abonné manque des appels; dès qu'il est joignable il reçoit un sms du +222 lui notifiant qu'il a manqué des appels <br>Le Ctqui est aussi appelé Notifications des appels ou Missed Call Notification <br>",
+             "Procédure de souscription": "<br>Souscription : Envoyer par SMS ON au 222 pour s'inscrire au service <br>Annuler souscription : Envoyer par SMS OFF au 222 pour annuler la souscription <br>",
+             "Prix": "<br>Gratuit <br>"
+         },
+         {
+             "Nom": "DA et priorités ",
+             "Description du produit": "<br>DA\tTraffic\tProduit<br><br>1\tVOIX\tC20/ Forfait SONS'YAM<br>2\tSMS\tC20/Bundle SMS<br>3\tVOIX/SMS\tBonus OM & EVD recharge moins de 10000F<br>4\tVOIX/SMS\tFlexiPro<br>5\tVoix\tM'Zaka<br>6\tVOIX/SMS\tSOS CREDIT<br>7\tVOIX/SMS\tWAKATI National<br>8\tVOIX/SMS\tBonus OM & EVD CPP(recharge >= 10.000)<br>9\tVoix\tFoarfait sonsyams autre réseau<br>10\tVOIX\tWAKATI  international<br>11\tVOIX\tFlexi +<br>12\tVOIX/SMS\tFlexi +<br>13\tVOIX/SMS\tBONUS SIM MAGIC<br>14\tVOIX\tBonus week end Choco<br>16\tVOIX\tBundle International<br>20\tVOIX\tHajj2023<br>24\tVOIX\tSONSYAM INTERNATIONAL<br>25\tDATA\tSOS DATA REMBOURSEMENT<br>26\tVOIX\tSOS CREDIT REMBOURSEMENT<br>29\tDATA\tInscription_UO- 1Go<br>30\tVOIX\tInternational offer<br>101\tSMS\tFORFAIT SMS/SMS SONSYAM<br>101\tSMS\tFORFAIT SMS/SMS SONSYAM<br>1001\tDATA\tDATA Bundle Classique<br>1002\tDATA\tCarte DATA<br>1004\tDATA\tDaily Bundle <br>1006\tDATA\tMe2U<br>1008\tDATA\tForfait Family box<br>1009\tDATA\tNight Bundle DATA<br>1020\tDATA\tDATA Weekly<br>1021\tDATA\tData Bundle roaming 250Mo<br>1022\tDATA\tData Bundle roaming<br>1022\tDATA\tRoaming Data 1 Giga<br>1023\tDATA\tBonus Promo<br>1026\tDATA\tData Bundle TV<br>1026\tDATA\tDATA MyCanal<br>1032\tDATA\tBonus Data<br>1037\tDATA\t5Go_2020F_Etudiant<br>1038\tDATA\tBundle2Go_2.5Go_Valid2_3Jrs<br>1039\tDATA\tBundle8Go_20Go_Valid2_3Jrs<br>1040\tDATA\tBundle6Go_15Go_Valid2_3Jrs<br>1042\tDATA\tOrange TTD Box Prepaid<br>1043\tDATA\tHajj2023<br>2015\tDATA\tBonus Orange TTD Box<br>10556\tDATA\t60Go Hybrid Box TDD<br>10557\tDATA\t150Go Hybrid Box TDD<br>10558\tDATA\t300Go Hybrid Box TDD<br>10559\tDATA\tPass Depannage Hybrid Box TDD<br>"
+         },
+         {
+             "Nom": "Développement Personnel",
+             "Description du produit": "<br>Service de conseils et d'astuces pour développer une connaissance de soi, de valoriser ses talents et potentiels, de travailler à une meilleure qualité de vie<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3367#<br>Procédure de désinscription: STOP au 454<br> ",
+             "Prix": "<br>53F/Jour<br>315F/semaine<br>"
+         },
+         {
+             "Nom": "DIET SMS ",
+             "Description du produit": "<br>Service proposant des conseils et des astuces de bien-etre <br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3074#<br>Désinscription: STOP au 3074<br>",
+             "Prix": "<br>27f/conseil<br>27f/SMS<br>"
+         },
+         {
+             "Nom": "Digster",
+             "Description du produit": "<br>Digster est une application qui vous permet de profiter de vos sons favoris en streaming.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
+             "Prix": "<br>Pass jour: <br>105 FCFA<br>"
+         },
+         {
+             "Nom": "Echanger ses points de fidélité avec des produits",
+             "Description du produit": "<br>NOM DU PRODUIT -----› POINTS -----› CODE <br><br>100MB -----› 200 -----› rd(ESPACE)100MB <br><br>500MB -----› 500 -----› rd(ESPACE)500MB <br><br>1GB -----› 600 -----› rd(ESPACE)1GO <br><br>10MIN -----› 60 -----› rd(ESPACE)10MIN <br><br>30MIN -----› 250 -----› rd(ESPACE)30MIN <br><br>1H -----› 450 -----› rd(ESPACE)1H <br><br>2H -----› 800 -----› rd(ESPACE)2H <br><br>50SMS -----› 50 -----› rd(ESPACE)50SMS <br><br>SANZA2 -----› 3700 -----›rd(ESPACE)SANZA2 <br><br>SANZA XL -----› 6159 -----› rd (ESPACE)SANZAXL <br><br>ROUTEUR HH42V -----› 8700 -----› rd(ESPACE)ROUTEURH <br><br>ITEL 2132 -----› 2000 -----› rd(ESPACE)ITEL2132 <br><br>ITEL A48 -----› 10000 -----› rd (ESPACE)ITELA48 <br><br>ROUTEUR TR11-----› 8 6000 -----› rd(ESPACE)ROUTEURTR118 <br><br>FLYBOX B612 -----› 5000 -----› rd(ESPACE)FLYBOXB612 <br><br>FIXE MW35 -----› 4000 -----› rd(ESPACE)FIXEMW35 <br><br>INFINIX HOT12I -----› 23000 -----› rd(ESPACE)INFINIXHOT12I <br><br>TECNO SPARK9 -----› 25000 -----› rd(ESPACE)TECNOSPARK9 <br><br>TECNO SPARK9 PRO -----› 30000 -----› rd(ESPACE)TECNOSPARK9PRO <br><br>TECNO CAMON19 -----› 35000 -----› rd (ESPACE)TECNOCAMON19 <br><br>TECNO CAMON19 PRO -----› 45000 -----› rd(ESPACE)TECNOCAMON19PRO <br><br>SAMSUNG A03CORE -----› 14000 -----› rd(ESPACE)A03CORE <br><br>SAMSUNG A04S 64GB -----› 23000 -----› rd(ESPACE)A04S64 <br><br>SAMSUNG A04S 32G -----› 21000 -----› rd(ESPACE)A04S32 <br><br><br>PRODUITS PARTENAIRES <br><br>NOM DU PRODUIT -----› POINTS -----› CODE <br><br>SUCRE 5KG  -----› 1000  -----› rd(ESPACE)SUCRE5 <br><br>SUCRE25KG  -----› 4140  -----› rd(ESPACE)SUCRE25 <br><br>SAVON CITEC  -----› 2520  -----› rd(ESPACE)SAVON <br><br>HUILE 5L  -----› 1200  -----› rd(ESPACE)HUILE5 <br><br>HUILE 20L  -----› 3700  -----› rd(ESPACE)HUILE20 <br><br>SUCRE 50KG  -----› 5700  -----› rd(ESPACE)SUCRE50 <br><br>PANIER  -----› 9000  -----› rd(ESPACE)PANIER <br><br>KIT  -----› 6000  -----› rd(ESPACE)KIT <br>",
+             "Avantages": "<br>Échangez vos points de fidélité en vous référant à votre gestionnaire de compte ou au catalogue des produits.<br>"
+         },
+         {
+             "Nom": "Économiser forfaits internet ",
+             "Description du produit": "<br>Plusieurs astuces sont à votre disposition pour vous permettre d’économiser vos pass internet.<br>Paramétrer votre smartphone. Arrêter les applications qui s’activent automatiquement, Activer le mode économiseur de données en arrière-plan, Désactiver la mise à jour automatique des applications.<br>Paramétrer votre navigateur internet. Vous pouvez activer le mode économiseur de données dans votre navigateur internet habituel.<br>Paramétrer l’utilisation de certaines applications. Sur YouTube, par exemple pour lire des vidéos avec votre forfait internet, vous devez privilégier une qualité de lecture de 480 pixels. Sur Facebook, vous pouvez désactiver la lecture automatique des vidéos pour ne lire que les vidéos qui vous intéressent vraiment.<br>"
+         },
+         {
+             "Nom": "E-FITNESS ",
+             "Description du produit": "<br>C'est un service vous donnant accès illimité sur l'univers du fitness. <br><br>Souscription JOUR : 105F (reconductible tacitement ) ou en sélectionnant l'achat à l'acte pour 263F/jour <br><br>Procédure de désactivation : STOP FIT au 452 (coût du sms : 0F) <br>"
+         },
+         {
+             "Nom": "Facebook SMS 808",
+             "Description du produit": "<br>C'est un service qui permet d'utiliser Facebook même sans connexion internet <br>Pour utiliser Facebook SMS il faut au préalable avoir un compte Facebook<br>",
+             "Procédure de souscription": "<br>FB au 808 <br>Inscription à 0F<br>Le client reçoit un SMS avec un lien <br>Chaque SMS envoyé est facturé à 10F"
+         },
+         {
+             "Nom": "Facture ONEA  par OM",
+             "Description du produit": "<br>Il est possible de payer ses factures d'eu ONEA avec Orange Money. <br><br>1. Composer le : *144*4*2*3# <br>2. Sélectionner l'option 1 : Paiement de facture <br>3. Saisir le Numéro d'abonné ONEA ( ce numéro figure dans l'entête de facture ONEA papier ) <br>4. Indiquer le montant <br>5. Saisir le MDP de son compte OM et valider <br>"
+         },
+         {
+             "Nom": "Famille & Amis 102",
+             "Description du produit": "<br>Famille et amis est un service qui permet à l’abonné prépayé Orange de constituer une liste de numéros préférentiels vers lesquels il appellera à un tarif réduit 24h/24.<br>",
+             "Avantages": "<br>. Communiquer plus longtemps avec ses proches<br>. Possibilité de changer les numéros de la liste à tout moment<br>. L’inscription des 5 premiers numéros est gratuite après cela le client paiera 100f/ numéro inscrit<br>",
+             "Procédure de souscription": "<br>Pour ajouter un numéro : <br>Par SMS : F+ Numéro au 9001 <br>USSD : *102*Numéro#<br><br>Pour retirer un numéro : <br>Par SMS : F- Numéro au 9001<br>USSD : *102*Numéro#<br><br>Consultation de la liste : <br>Par SMS : L au 9001<br>USSD : *102#<br>",
+             "Prix": "<br>0f 5 premiers numéros<br>100f dès le 6è numéro<br>"
+         },
+         {
+             "Nom": "Faso7",
+             "Description du produit": "<br>Service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média en ligne FASO7. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3368#<br><br>Procédure de désinscription: STOP au 3368<br>",
+             "Prix": "<br>28F/Jour<br>105F/semaine<br>420F/mois<br>"
+         },
+         {
+             "Nom": "Filinfo",
+             "Description du produit": "<br>Service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média en ligne Filinfo. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire:  *3470#<br>Procédure de désinscription: STOP au 3470<br>",
+             "Prix": "<br>28F/Jour<br>105F/semaine<br>420F/mois<br>"
+         },
+         {
+             "Nom": "Forfait etudiant",
+             "Description du produit": "<br>Le forfait étudiant 5Go à 2121FCFA est valable 30 jours e en une seule fois dans le mois pour les étudiants inscrits sur la plateforme FasoCampus<br><br>Procédure de souscription: <br><br> 5 Go valables 30 jours  -----› 2121FCFA -----› Syntaxe directe pour souscrire : *144*5*1*Numéro*7#<br>"
+         },
+         {
+             "Nom": "Forfait internet ( MEGA )",
+             "Description du produit": "<br>Forfaits data JOUR<br><br>11 Mo -----› 105FCFA -----› Syntaxe directe pour souscrire : *103*100#<br>44 Mo -----› 237FCFA -----› Syntaxe directe pour souscrire : *103*225# <br>165 Mo -----› 552FCFA -----› Syntaxe directe pour souscrire : *103*525#<br><br>Forfaits data SEMAINE<br><br>110 Mo -----› 525FCFA -----› Syntaxe directe pour souscrire : *103*500#<br>440 Mo -----› 1 050FCFA -----› Syntaxe directe pour souscrire : *103*1000# <br>1 126 Mo -----› 2 100FCFA -----› Syntaxe directe pour souscrire : *103*2000#<br><br>Forfaits data MOIS<br><br>550 Mo -----› 1 575FCFA -----› Syntaxe directe pour souscrire : *103*1500#<br>1 126 Mo -----› 2 625FCFA -----› Syntaxe directe pour souscrire : *103*2500#<br>2048+2048 Mo -----› 4 200FCFA -----› Syntaxe directe pour souscrire : *103*4000#<br>5 632 Mo -----› 8 400FCFA -----› Syntaxe directe pour souscrire : *103*8000#<br>11 264 Mo -----› 15 750FCFA -----› Syntaxe directe pour souscrire : *103*15000#<br><br>Forfaits data MOIS +<br><br>30 720 Mo -----› 56 700FCFA -----› Syntaxe directe pour souscrire : *103*54000#<br>61 440 Mo -----› 105 000FCFA -----› Syntaxe directe pour souscrire : *103*100000#<br><br>Offres du jour<br><br>1 024 Mo -----› 1 050FCFA -----› Syntaxe directe pour souscrire : *103*1000*7#<br>2 048  Mo -----› 2 100FCFA -----› Syntaxe directe pour souscrire : *103*2000*7#<br>4 096 Mo  -----› 4 200FCFA -----› Syntaxe directe pour souscrire : *103*4000*4#<br>10 240 Mo  -----› 9 975FCFA -----› Syntaxe directe pour souscrire : *103*10000#<br><br>Oflex<br><br>1;5 Go -----› 1 050FCFA -----› Syntaxe directe pour souscrire : *103*1000*3#<br>2 Go -----› 1 050FCFA -----› Syntaxe directe pour souscrire : *103*1000*2#<br>6 Go -----› 4 200FCFA -----› Syntaxe directe pour souscrire : *103*4000*15#<br>8 Go -----› 4 200FCFA -----› Syntaxe directe pour souscrire : *103*4000*10#<br>15 Go -----› 9 975FCFA -----› Syntaxe directe pour souscrire : *103*9500*15#<br>20 Go -----› 9 975FCFA -----› Syntaxe directe pour souscrire : *103*9500*10#<br><br>Forfaits data nuit<br><br>100Mo+50SMS -----› 105FCFA -----› Syntaxe directe pour souscrire : *506*100#<br>200Mo+50SMS -----› 210FCFA -----› Syntaxe directe pour souscrire : *506*200#<br>1024Mo+100SMS -----› 525FCFA -----› Syntaxe directe pour souscrire : *506*500#<br>2048Mo+200SMS-----› 1 050FCFA -----› Syntaxe directe pour souscrire : *506*1000#"
+         },
+         {
+             "Nom": "Forfait Nuit ",
+             "Description du produit": "<br>Forfait Nuit <br><br>100Mo+50SMS valables de 0h à 05h du matin -----› 105FCFA -----› Syntaxe directe pour souscrire : **103*1*6*1#<br>200Mo+50SMS valables de 0h à 05h du matin -----› 210FCFA -----› Syntaxe directe pour souscrire : **103*1*6*2#<br>1024Mo+100SMS valables de 0h à 05h du matin  -----› 525FCFA -----› Syntaxe directe pour souscrire : **103*1*6*3#<br>2048Mo+200SMS valables de 0h à 05h du matin  -----› 1050FCFA -----› Syntaxe directe pour souscrire : **103*1*6*4#<br>"
+         },
+         {
+             "Nom": "Forfait roaming ",
+             "Description du produit": "<br> <br> Pour les clients « prépayés » composer *119# puis suivez les instructions pour souscrire <br> Pour les clients « post payés » composer *151# pour activer la souscription.<br>",
+             "Procédure de souscription": "<br>20Mo -----› 525FCFA valables 15 jours -----› Syntaxe *103*1*4*1#<br>50Mo -----› 1050FCA valables 15 jours -----›  Syntaxe *103*1*4*2#<br>250Mo -----› 2625 valables 30 jours -----› Syntaxe *103*1*4*3#<br>1Go -----› 5250FCFA valables 30 jours -----› Synataxe *103*1*4*4# <br> <br> "
+            },
+         {
+             "Nom": "Forfait sms",
+             "Description du produit": "<br>10 sms -----› 11FCFA -----› Syntaxe directe pour souscrire :  *101*10#<br>50 sms -----› 27FCFA -----› Syntaxe directe pour souscrire :  *101*25#<br>100 sms -----› 53FCFA -----› Syntaxe directe pour souscrire :  *101*50#<br>200 sms -----› 105FCFA -----› Syntaxe directe pour souscrire :  *101*100#<br>"
+         },
+         {
+             "Nom": "Franglais",
+             "Description du produit": "<br>Service permettant de recevoir les appels d'offre à l'international<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*6*5#<br><br> ",
+             "Prix": "<br>53F/Jour<br>105F/semaine<br>420f/mois<br>53f/consultation<br>"
+         },
+         {
+             "Nom": "Friendz Chat 210",
+             "Description du produit": "<br>Friendz Chat est un service qui permet aux clients qui y souscrivent de pouvoir faire des appels et des SMS à tarif préférentiel.<br>",
+             "Procédure de souscription": "<br>Pour souscrire :<br>Appeler au 210 et suivre les instructions<br>Via le SMS: envoyer par SMS \" CHAT1\" au 210<br>Via le USSD: Tapez *210# et suivez les instructions<br><br>Procédure de désinscription: STOP au 210 Coût : 7F<br>",
+             "Prix": "<br>Le coût de souscription <br>7F par SMS et par code USSD<br>1F/Sec par appel <br>"
+         },
+         {
+             "Nom": "Funcell",
+             "Description du produit": "<br>Funcell est un portail exclusif de contenu qui comprend des jeux, des vidéos.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>"
+         },
+         {
+             "Nom": "Gameloft",
+             "Description du produit": "<br>Gameloft est un portail de jeux mobile qui vous permet de bénéficier d’un large catalogue de jeux vidéo. Gameloft est accessible où vous voulez, quand vous voulez, si vous disposez d’un smartphone Android, d’une tablette Android et que vous disposez d’une connexion 3G/4G ou Wifi.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 464.<br>"
+         },
+         {
+             "Nom": "Gap / Bonnes pratiques agricoles 201",
+             "Description du produit": "<br>Ce service fournit des conseils sur les bonnes  pratiques agricoles qui impliquent l'adoption et l'application de principes de bonne gestion pour la production de produits agricoles sains et sûrs pour pour la consommation humaine sans affecter l'envireonnement et la santé des travailleurs agricoles. <br>",
+             "Avantages": "<br>Souscription: <br>25F / JOUR <br>100F / SEMAINE<br>200F / MOIS <br><br>",
+             "Procédure de souscription": "<br> Pour désactiver : *201*2*4#<br>"
+         },
+         {
+             "Nom": "Garbal",
+             "Description du produit": "<br>Le 777 est un call center qui permet aux abonnés de bénéficier d'informations  et de conseils sur l'agricultures et l'élévage en appelant le 777. Accessible via IVR.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 777<br>Procédure de désinscription: *777*1*9#<br><br>",
+             "Prix": "<br>30F/minute<br>"
+         },
+         {
+             "Nom": "GBICH *326#",
+             "Description du produit": "<br>Service dédié aux blagues et à l'humour. Accessible via IVR / USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 326<br>Procédure de désinscription: *326*3#<br>",
+             "Prix": "<br>10F/SMS<br>Jour: 25F<br>Semaine : 100F<br>Mois : 400F<br>25F/Consultation<br>"
+         },
+         {
+             "Nom": "HADIHMOBILE",
+             "Description du produit": "<br>Service de contenu islamique<br>",
+             "Procédure de souscription": "<br>Pour Souscrire:  *3367#<br>Procédure de désinscription: STOP au 454<br>",
+             "Prix": "<br>53F/Jour<br>315F/semaine<br>"
+         },
+         {
+             "Nom": "Hyppodrome",
+             "Description du produit": "<br>Un service d'actualité hyppique<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*3*5#<br>",
+             "Prix": "<br>53F/Jour<br>105F/semaine<br>420f/mois<br>53f/consultation<br>"
+         },
+         {
+             "Nom": "Immigr Canada-USA",
+             "Description du produit": "<br>Un service de conseils sur l'immigration au canada et au USA<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*4*5#<br>",
+             "Prix": "<br>53F/Jour<br>105F/semaine<br>420f/mois<br>53f/consultation<br>"
+         },
+         {
+             "Nom": "Immo-reussite",
+             "Description du produit": "<br>Service qui permet de recevoir les offres d'achat et de location de maisons et de parcelles<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*2*5#<br>",
+             "Prix": "<br>53F/Jour<br>105F/semaine<br>420f/mois<br>53f/consultation<br>"
+         },
+         {
+             "Nom": "International Market Place",
+             "Description du produit": "<br>Service permettant de recevoir les appels d'offre à l'international<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*5*5#<br>",
+             "Prix": "<br>53F/Jour<br>105F/semaine<br>420f/mois<br>53f/consultation<br>"
+         },
+         {
+             "Nom": "ISKA METEO 201",
+             "Description du produit": "<br>Le Service ISKA Météo est un service sur la météo et sur demande.Il permet aux abonnés de recevoir des prévisions météorologiques en fonction de leur localité. Accessible via SMS / USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: *201#.<br>Procédure de désinscription: *201*1*4#<br>",
+             "Prix": "<br>Jour : 25F<br>Semaine : 100F<br>Mois : 400F<br>"
+         },
+         {
+             "Nom": "Jours de Bonus et promotions ",
+             "Description du produit": "<br>Lundi : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F<br><br>Mardi : <br> - 200% de bonus sur la 1ère recharge OM du jour pour 125F, 525F, 1025F, 1050F, 5025F valable 10 jours<br> - 100 % de bonus sur les recharges supérieures ou égales à 10 000F valable 07 jours <br> - Bonus internet de 100% par achat de forfait internet via le 433, Orange & moi et OM<br><br>Mercredi : <br> - 200% de bonus sur les recharges OM de 125F, 525F, 1025F, 1050F, 5025F valable 10 jours <br><br>Jeudi : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F <br><br>Vendredi : <br> - 200% de bonus sur la 1ère recharge OM du jour pour 125F, 525F, 1025F, 1050F, 5025F valable 10 jours<br> - 100 % de bonus sur les recharges supérieures ou égales à 10 000F valable 07 jours <br> - Bonus internet de 100% par achat de forfait internet via le 433, Orange & moi et OM<br><br>Samedi : <br> - 100 % de bonus sur toutes les recharges OM et SAP SAP valable 07 jours <br><br>Dimanche : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F<br>"
+         },
+         {
+             "Nom": "La flotte ",
+             "Description du produit": "<br>La flotte ou CUG (Closed User Group) est un service qui offre une communication gratuite à l'intérieur d'un groupe d'utilisateurs ( postpayé ou prépayé) moyennant une redevance mensuelle par ligne <br>Il est destiné aux structures ayant une communication interne important <br><br>Entre 5 - 150 lignes -----› 5 000F/ligne <br>Entre 151 - 500 lignes -----› 4 000F/ligne<br>Plus de 500 lignes -----› 3 500F/ligne<br>",
+             "Procédure de souscription": "<br>Condition cible : personnes morales ( Entreprises et organisations à but lucratif) <br>5lignes (numéros) minimum <br>Tarif selon votre catégorie et plan tarifaire poure les appels en dehors de la flotte <br>"
+         },
+         {
+             "Nom": "Le code coupon fidelité",
+             "Description du produit": "<br>Lorsque le client fait la demande d'échange de points contre un cadeau non-GSM, un code coupon lui est envoyé <br>Il est unique et lié au numéro de téléphone <br>Il est valide pour 2 mois <br>Il peut être annulé à la demane du client <br>Il peut être renvoyé au client en cas de perte <br><br>L'annulation du code coupon est seulement possible si le coupon n'a pas été utilisé contre un article et est toujours valide <br>L'annulation se fait par SMS : SUPP [ espace ] Code coupon au 797 <br>"
+         },
+         {
+             "Nom": "Le Double appel ou appel en attente ",
+             "Description du produit": "<br>Le Double appel ou appel en attente est un service qui donne à l’abonné la possibilité de recevoir un autre appel lorsque celui-ci est déjà en communication. Il permet de savoir qu'une personne cherche à vous joindre, pendant que vous êtes déjà en communication. <br>",
+             "Avantages": "<br>Ce service vous offres ces différentes options lorsque vous recevez un appel alors que vous êtes déjà en communication :<br><br>Mettre fin au premier appel et répondre au second<br>Mettre le premier appel en attente et répondre au second <br>",
+             "Procédure de souscription": "<br>Pour activer : composez *43# appel.<br>Pour désactiver : composez #43# appel.<br>Pour vérifier le statut : composez *#43# appel.<br>",
+             "Prix": "<br>Gratuit<br>Conférence téléphonique<br>Sans engagement<br>"
+         },
+         {
+             "Nom": "Le maintien de ligne 625",
+             "Description du produit": "<br>Le maintien de ligne est un service offert aux abonnés Orange. Il vous permet de garder votre numéro de téléphone actif même si vous ne l'utilisez pas pendant plus de 180 jours. Cela signifie que vous pouvez continuer à posséder et à utiliser votre numéro, même si vous n'effectuez aucune activité payante pendant cette période.<br>",
+             "Avantages": "<br>Avantages <br><br>Conservation du Numéro : Le principal avantage est la possibilité de conserver son numéro de téléphone, même si on ne l'utilise pas pendant une longue période. Cela évite de perdre le numéro et d'avoir à en obtenir un nouveau lorsque vous souhaitez réutiliser vos services.<br><br>Flexibilité : Ce service offre une grande flexibilité aux abonnés. Si vous avez l'intention de ne pas utiliser votre numéro pendant un certain temps en raison de voyages, maladie ou autres raisons, le maintien de ligne vous permet de garder votre numéro en attendant votre retour.<br><br>Économie : En maintenant votre ligne active, vous évitez de payer des frais de reconnexion ou des frais liés à la récupération de votre ancien numéro si vous décidez de le réactiver après une période d'inactivité.<br>",
+             "Procédure de souscription": "<br>Souscription pour 12 mois : *625*12# <br> Souscription pour une autre personne : *625*nombre de mois *Numéro correspondant # ok<br>",
+             "Prix": "<br>3000 FCFA pour 12 mois <br>"
+         },
+         {
+             "Nom": "Le Masquage de ligne",
+             "Description du produit": "<br>Le masquage de numéro est un service qui permet de restreindre l’identité de l’appelant.<br>Orange offre deux types de masquage :<br>Masquage permanent <br>Masquage optionnel <br>",
+             "Avantages": "<br>Le masquage est souvent utilisé dans des situations où l'appelant souhaite maintenir sa vie privée et ne pas révéler son numéro d'appel à la personne qu'il appelle. Cela peut être utile dans des cas tels que les appels professionnels confidentiels, ou tout simplement lorsque l'appelant préfère ne pas divulguer son numéro.<br>",
+             "Procédure de souscription": "<br>L’abonné qui veut activer le masquage devrait remplir un formulaire de masquage de ligne avant l’activation du service <br>",
+             "Prix": "<br>Le masquage coûte 10.000 F quelque soit le type. "
+         },
+         {
+             "Nom": "Le programme de fidélité Orange",
+             "Description du produit": "<br>C’est un Programme conçu par Orange pour récompenser et remercier ses clients pour leur fidélité à travers la consommation. Tout client ayant un numéro actif sur le réseau Orange, est éligible au programme. Chaque utilisation des produits et services d'Orange : appels, SMS, Internet, ou service à valeur ajoutée, vous donneront droit à des points cadeaux. Les points accumulés pourront plus tard être échangés contre différents cadeaux.<br>Les Points Cadeaux sont valides pour 4 trimestres (1 an) à compter du trimestre dans lequel ils ont été octroyés. Il y a donc 4 dates d’expiration des points cadeau dans l’année correspondant à la fin de chaque trimestre : 31 mars - 30 juin - 30 septembre - 31 décembre<br>",
+             "Avantages": "<br>Vous pouvez convertir vos points cadeaux en :<br><br>.des minutes d'appels valable vers Orange,<br>.des SMS valable vers Orange,<br>.des forfaits internet<br>.des téléphones et modems<br>.des produits alimentaires auprès de nos partenaires. <br>",
+             "Procédure de souscription": "<br>Les différentes commandes (SMS) pour l'accès au programme de fidelité :<br><br>Inscription : Par SMS, envoyer «PF» au 797<br>Consultations des points : envoyer « C » au 797<br>Echanges de points : USSD *797*5# et suivre les instructions  OU  envoyer « rd [code du cadeau] » au 797<br>",
+             "Prix": "<br>Gratuit<br>Tout client ayant un numéro actif sur le réseau Orange, est éligible au programme. En tant que client VIP, vous êtes automatiquement enregistré dans le programme de fidélité.<br>"
+         },
+         {
+             "Nom": "Le renvoi d’appel ",
+             "Description du produit": "<br>Le renvoi d’appels est un service qui permet de rediriger les appels entrants vers n’importe quel autre numéro.<br>",
+             "Avantages": "<br>Comme son nom l'indique, cette fonction achemine les appels au numéro choisi selon certaines conditions:<br>Si pas de réponse - sans réponse <br>Si hors d’atteinte - si injoignable - inaccessible <br>Si occupé<br>Si non disponible<br>",
+             "Procédure de souscription": "<br>Pour activer : composez *21* [numéro de téléphone] # appel.<br>Pour désactiver : composez #21# appel OU ##002*#<br>Pour vérifier le statut : composez *#21# appel.<br>",
+             "Prix": "<br>Gratuit<br>"
+         },
+         {
+             "Nom": "LE SAVIEZ VOUS? 328",
+             "Description du produit": "<br>Service SMS dédié aux histoires insolites et découvertes. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 328<br>Procédure de désinscription: *328# puis 3<br>",
+             "Prix": "<br>10F/SMS<br>25F/Consultation<br>"
+         },
+         {
+             "Nom": "Le service Postpayé",
+             "Description du produit": "<br>Le service postpayé est un modèle du service par lequel le client paie une facture à la fin du mois pour l'utilisation des services durant le mois. Contrairement au prépayé qui doit recharger un certain montant à son compte avant l’utilisation des services.<br>",
+             "Avantages": "<br>Toutes les opérations effectuées par le client lui seront facturées à la fin du mois. <br>Redevance fixe de 5.900 F CFA à la fin de chaque mois.<br>Suspension des services lorsque la consommation de la ligne atteint le montant de la caution.<br>",
+             "Procédure de souscription": "<br>Le client remplit une fiche de souscription dûment signée et datée + document d’identification.<br>"
+         },
+         {
+             "Nom": "LEARN ENGLISH 397",
+             "Description du produit": "<br>L'abonné appelle le 397 pour suivre des cours d'anglais. Accessible via IVR / USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 397<br>Procédure de désinscription: *397*4#<br>",
+             "Prix": "<br>Jour 30F<br>Semaine 100F<br>Mois 300<br>"
+         },
+         {
+             "Nom": "Les messages de promotions Orange",
+             "Description du produit": "<br>Désormais il est possible d'activer ou désactiver gratuitement les messages de promotion <br>Taper : *555*2*1# pour désactiver <br>Pour activer : *555*2*2#<br>"
+         },
+         {
+             "Nom": "Les téléphones compatibles avec l’eSIM d’Orange",
+             "Description du produit": "<br>Ce sont les téléphones de dernière génération<br> <br>Apple iPhone XR & XS<br>Apple iPhone <br>Apple iPhone XS Max <br>Apple iPhone 11 & 12 & 13 & 14<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro max<br>Apple iPhone SE (2020 & 2022)<br>Apple iPhone 12 & 13 Mini <br>Apple iPhone 14 Plus <br>iPad Pro (2018 and onwards) <br>Apple iPad & iPad Air <br>Apple Watch series 3 & 4 & 5 & 6 & 7& 8<br>iPhone SE (2020)<br>Apple Apple Watch Ultra<br>Apple Watch SE<br>Oppo Find X3 Pro<br>Oppo Reno 5 A & 6 Pro 5G<br>Oppo Find X5 & X5 Pro<br>Oppo A55s 5G<br>Sony Xperia 10 IV & 10 III Lite<br>Sony Xperia 1 IV<br>Sharp Sharp AQUOS sense6s & wish<br> <br> <br>Xiaomi 12T Pro<br>Google Pixel 3 & 3a & 4 & 4a & 5 & 6 & 6Pro & 7 & 7 Pro<br>Huawei P40 & P40 Pro<br>Huawei Mate 40 Pro<br>Huawei Honor Magic 4 Pro<br>Motorola Razr 2019<br>Motorola Razr 5G<br>Samsung Galaxy Fold<br>Samsung Galaxy Z Fold 2 5G<br>Samsung Galaxy Z Flip & Z Flip 2 & Z Flip 2 5G & Z Flip 3 & Z Flip 4 & Z Flip 4 5G<br>Samsung Galaxy S20 <br>Samsung Galaxy S21 & S21+ 5G & S21 Ultra 5G<br>Samsung Galaxy S22 & S22+ & S22 Ultra<br>Samsung Galaxy Note 20 & Note 20 Ultra 5G <br>Samsung Galaxy Z Fold3 5G<br>Nuu Mobile X5<br>Planet Computers Gemini PDA<br>Rakuten Mobile Rakuten Mini & Hand 5G<br>Rakuten Mobile Rakuten BIG & BIG s<br>Rakuten Mobile Rakuten hand<br>HONOR Magic 4 Pro<br> "
+         },
+         {
+             "Nom": "Les zones de couverture fibre à Bobo Dioulasso",
+             "Description du produit": "<br>Accartville<br>Bobo 2010<br>Secteur 25<br>Secteur 5<br>Petit Paris<br>Sikasso Sira<br>Yéguéré Koura<br>Zone commerciale / Centre Ville<br>"
+         },
+         {
+             "Nom": "Les zones de couverture fibre à Ouagadougou",
+             "Description du produit": "<br>Azimmo Ouaga 2000<br>Cité Socogib Ouaga 2000<br>Zaca<br>Koulouba<br>Samandin<br>Saint Léon<br>Bilbalogho<br>Cité an 3<br>Ouaga 2000 (zone A, B et C)<br>Ouaga 2000 Ext<br>Patte d'oie<br>1200 Logements<br>Somgandé<br>Tanghin<br>Zone du Bois<br>Cité Socogib Zone du Bois<br>Zogona<br>Saaba<br>Nioko1<br>Tampouy<br>Azimmo Tampouy<br>Wayalghin<br>Cité Enaref<br>Dassasgho<br>Kalgondin<br>Dagnoën<br>Karpala<br>Sinyiri<br>ZAD<br>Petit Paris<br>Gounghin<br>Wemtenga<br>Belleville<br>Pissy <br>"
+         },
+         {
+             "Nom": "LibreInfo.net 540",
+             "Description du produit": "<br>Un service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média en ligne LibreInfo.netAccessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *540#<br>Procédure de désinscription: *540*3#<br>",
+             "Prix": "<br>28f/ jour <br>105f/ semaine<br>420/ mois<br>"
+         },
+         {
+             "Nom": "Magic sms (illimité)",
+             "Description du produit": "<br>Magic sms 1 jr -----› 105FCFA -----› Syntaxe directe pour souscrire : *150*numero*1#<br>Magic sms 7 jrs -----› 525FCFA -----› Syntaxe directe pour souscrire : *150*numero*7# <br>Magic sms 30 jrs -----› 1575FCFA -----› Syntaxe directe pour souscrire : *150*numero*30#<br>"
+         },
+         {
+             "Nom": "MAGIC VOICE 145",
+             "Description du produit": "<br>Ce service permet aux abonnés de modifier leur voix, d'ajouter un bruitage au cours d'un appel. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: Appel au 145 ou *145#<br>Procédure de désinscription: *145*4#",
+             "Prix": "<br>Jour: 50F          <br>Semaine: 100F        <br>Mois: 500F<br>"
+         },
+         {
+             "Nom": "MANGER SAIN, BIEN ETRE, VIVRE ENSEMBLE 3074",
+             "Description du produit": "<br>Manger saint est un portail de conseils sur la santé et le bien être. Trois rubriques s'offrent aux abonnés : MANGER SAIN, BIEN ETRE, VIVRE ENSEMBLE <br>",
+             "Procédure de souscription": "<br>Pour souscrire : *3074# et choisir la rubrique qui l'intéresse entre : <br>   1.Bien être <br>   2. Manger sain <br>   3. Vivre ensemble <br><br>Désabonnement : *3074*0#<br>",
+             "Prix": "<br>Facturation : Consulation 25F Souscription : 25F/conseil <br>"
+         },
+         {
+             "Nom": "Menu STK (Orange Info) 456 ",
+             "Description du produit": "<br>Services d'alertes d'informations sur l'actualité, de consultation des pharmacies et de programme de divertissement<br>",
+             "Procédure de souscription": "<br>Pour souscrire : *456#<br>Désactiver : *456# et suivre les instructions"
+         },
+         {
+             "Nom": "MOBIPROF",
+             "Description du produit": "<br>MOBIPROF est une plateforme de « E-learning» qui dispose de plusieurs cours en ligne d'apprentissage personnalisé avec une méthode accélérée pour apprendre de manière intensive ou de manière rythmé.<br>",
+             "Procédure de souscription": "<br>*105F avec renewal<br>*263F/jour<br><br>Désactivation: Envoyer STOP PROF au 452."
+         },
+         {
+             "Nom": "Mobvision",
+             "Description du produit": "<br>Mobvision vous offres les meilleures vidéos en ligne sur tous vos sujets préférés. Football, stars, cinéma et bien plus encore.<br>",
+             "Procédure de souscription": "<br>Procédure de désinscription:  MV STOP au 383"
+         },
+         {
+             "Nom": "MOLOTOV (Veedz TV) ",
+             "Description du produit": "<br>Veedz TV est un service qui vous permet de suivre la TV en direct et de visionner des centaines de films et séries sur PC, Smartphone ou bien tablette.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP TELE au 452.<br>"
+         },
+         {
+             "Nom": "Mousso 707",
+             "Description du produit": "<br>Mousso est un service à valeur ajoutée qui permet de calculer la date d’ovulation selon son cycle. Le but de ce service est d’aider les jeunes filles qui ont des difficultés à faire le calcul elles mêmes. Ce service a bout but de contribuer à la lutte contre les grossesses indésirées et les avortements principales chez la jeune fille et d’une part d’aider la femme à mieux planifier sa maternité. Accessible via IVR.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 707<br><br>Procédure de désinscription: *707*8#<br>",
+             "Prix": "<br>Jour: 30F<br>Semaine: 150F<br>Mois: 500F<br>"
+         },
+         {
+             "Nom": "Numéro du service client",
+             "Description du produit": "<br>Appeler le 121 (payant 25F)<br>Appeler le 127 (orange money)(25f)<br>Appeler le 5555 (client premium)<br>Appeler le 450 (téléphone fixe)<br>Appeler le 110 (Orange Business)<br>Appeler le 113 (Sim Sap sap)<br>Appeler le 119 (Orange énergie) 25f<br>Appeler le 333 (Orange fibre) 25F<br>",
+             "Avantages": "<br>Contact Service Client via les réseaux sociaux<br>Whatsapp via le 07000121/Fibre:06003333<br>https://www.facebook.com/OrangeBurkina<br>https://twitter.com/orangeburkina<br>https://instagram.com/orangeburkina<br>"
+         },
+         {
+             "Nom": "OFC (live match  ou unkwon ou Crédit goal)",
+             "Description du produit": "<br>Service dédié au Football permettant aux abonnés de recevoir des alerts de match en direct, consulter l'actualité des équipes, effectuer des pronostics…). Accessible via USSD.",
+             "Procédure de souscription": "<br>Pour souscrire: 530<br><br>Procédure de désinscription: STOP au 530 facturé à 21F<br>",
+             "Prix": "<br>Match en direct: 25F/Jour<br>Crédit Goal: 100F/souscription<br>Score gagnant: 100F/Souscription<br>"
+         },
+         {
+             "Nom": "Offre Choco ",
+             "Description du produit": "<br>Tarif intra choco -----› Appel : 1,100F -----› Intervalle : 1s<br>Choco Vers Orange Non choco en heures creuses -----› Appel : 1,1FCFA -----› Intervalle : 1s<br>Choco Vers Off-net en heures creuses -----› Appel: 1,100FCFA -----› Intervalle : 1s<br>SMS intra Choco\t-----›\t5,25FCFA<br>Choco Vers Off-net en heures pleines -----› Appel: 2,1FCFA -----› Intervalle : 1s <br>Choco Vers Orange non choco en heures pleines -----› Appel : 1,9 FCFA -----› Intervalle : 1s <br><br>Tarif special chocco  -----›10Min vers tous les reseaux nationaux+20sms+150Mo valable 3jr  -----› 525FCFA <br>"
+         },
+         {
+             "Nom": "Orange Choco 109",
+             "Description du produit": "<br>Orange Choco est une proposition distinctive qui offre des  possibilités d’expression dédiées aux jeunes. <br>",
+             "Avantages": "<br>Les  caractéristiques sont: <br>1. Prixpréférentiels intracommunautaire pour la voix et les SMS, <br>2. Accessibilité aux réseaux sociaux, les données et les tonalités. <br>3. Pack SMS: Envoyer un SMS facturé pour obtenir 25 SMS gratuits utilisable vers Orange valide jusqu’à00h;<br>4. Bénéficie de 10 min à 100f via le 106<br>",
+             "Procédure de souscription": "<br>L'inscription à Orange Choco est active après avoir tapé *109# puis OK ou en envoyant IN par SMS au 109.<br><br>",
+             "Prix": "<br>La première souscription à Orange choco est gratuite et un bonus de 500Mo est offert valable le même jour jusqu'a 23h.<br>Pour une seconde souscription le coût est de 105 FCFA et sans bonus.<br>Pour quitter le plan Orange Choco, il faut taper le *109*4# ou en envoyant par SMS STOP au 109.<br>Le fait de quitter le plan Orange Choco, entraine un basculement vers le plan tarifaire classique.<br>"
+         },
+         {
+             "Nom": "Orange Entrepreneur ",
+             "Description du produit": "<br>Orange Entrepreneur vise à offrir, via le téléphone mobile, des conseils pratiques en entrepreneuriat, en leadership et en motivation et développement personnel à tous ceux qui sont dans les affaires ou  souhaitent se lancer afin de leur  permettre d’augmenter leurs chances de réussite. Accessible via SMS/USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire:  *282#<br>Procédure de désinscription: *282#, choisir la rubrique activé puis choisir l'option 2, \"Annuler\"<br>",
+             "Prix": "<br>Jour : 28F<br>Semaine : 105F<br>Mois : 420F<br>"
+         },
+         {
+             "Nom": "ORANGE JEUX / OGAMING",
+             "Description du produit": "<br>Orange jeux est une plateforme mobile incluant dans son portail des jeux de divers univers, qui permet au client de jouer directement via l’application ou web app externe. Avec les meilleurs éditeurs de jeux pour le Gaming.<br>",
+             "Procédure de souscription": "<br>Inscription :   lien publicitaire à travers les plateformes telles que : Pubilcations Réseaux sociaux ,Push SMS ,Push in App ,Campagnes Ads Facebook ,Campagnes Ads Google<br><br>INSCRIPTION: 105frs jour avec renouvellement auto<br>263frs a l’acte (Pour 24h sans renouvellement automatique)<br><br>Désabonnement<br>STOP OJ au 452<br>"
+         },
+         {
+             "Nom": "Orange Job Alert 500",
+             "Description du produit": "<br>Service permettant de recevoir des info sur les bien immobiliers en vente ou location, des offres d'emploi au niveau national et international. Accessible via SMS/USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *500#<br>Procédure de désinscription: *500*0#<br>",
+             "Prix": "<br>53F/Alerte<br>"
+         },
+         {
+             "Nom": "Parent 2.0",
+             "Description du produit": "<br><br>Parent 2.0 est un nouveau service à la disposition de nos abonnés permettant de recevoir de  bonnes astuces et conseils pour l’éducation de vos enfants<br>",
+             "Procédure de souscription": "<br>Il faut composer *104# et choisir selon votre convenance une des formules ci-dessous :<br>\tLa consultation facturée à 30 FCFA ;  <br>\tUn abonnement journalier facturé à 30 FCFA ;  <br>\tUn abonnement hebdomadaire facturé à 150 FCFA ;<br>\tUn abonnement mensuel facturé à 500 FCFA.  <br><br>Désactivation : *104*3#<br>"
+         },
+         {
+             "Nom": "Pass internationaux",
+             "Description du produit": "<br>5min(OCI+OFR)+5min OBF -----› 263FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*1# valable 2 jours<br>10min(OCI+OFR)+10min OBF -----› 552FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*2# valable 3 jours<br>20min(OCI+OFR)+20min OBF -----› 1077FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*3#valable 7 jours<br>5min vers OCI, OFR, ONI, OLIB, OSEN -----› 525FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*4*1# valable 3 jours<br>20min vers France, OCI, USA, CANADA -----› 1050FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*4*2# valable 3 jours<br>10 min vers Italie, Ghana, Niger, Togo, Benin -----› 1575FCFA -----› Syntaxe directe pour souscrire :  *106*1*3*4*3*1# valable 3 jours<br>"
+         },
+         {
+             "Nom": "Pass Mix  tous réseaux",
+             "Description du produit": "<br>10Min+15sms+40Mo  -----› 237FCFA -----› Syntaxe directe pour souscrire : *106*1*2*1#<br>30min+60sms+100Mo -----› 552FCFA -----› Syntaxe directe pour souscrire : *106*1*2*2#<br>"
+         },
+         {
+             "Nom": "Pass Mix plus",
+             "Description du produit": "<br>15Min+50SMS -----› 158FCFA -----› Syntaxe directe pour souscrire : *106*1*4*1# valable jusqu'à 23h59<br>15 min + 3 min(off-net) + 50 SMS + 40Mo -----› 263FCFA -----› Syntaxe directe pour souscrire : *106*1*4*2# valable jusqu'à 23h59<br>30 min + 5 min(off-net)+100 SMS+100 Mo  -----› 552FCFA -----› Syntaxe directe pour souscrire : *106*1*4*3# valable3 jours<br>"
+         },
+         {
+             "Nom": "Pass Mix tarifs ",
+             "Description du produit": "<br>10Min valable 1jr (Choco) -----› 105FCFA -----› Syntaxe directe pour souscrire : *106*1*1*1#<br>5Min+5sms+10Mo -----› 126FCFA -----› Syntaxe directe pour souscrire : *106*1*1*2# valable jusqu'à 23h59<br>10Min+15sms+20Mo -----› 263FCFA -----› Syntaxe directe pour souscrire : *106*1*1*3# valable jusqu'à 23h59<br>30Min+20sms+20Mo -----› 420FCFA -----› Syntaxe directe pour souscrire : *106*1*1*4# valable jusqu'à 23h59<br>30Min+30sms+60Mo -----› 525FCFA -----› Syntaxe directe pour souscrire : *106*1*1*5*1# valable jusqu'à 23h59<br>60Min+60sms+60Mo -----› 735FCFA -----› Syntaxe directe pour souscrire : *106*1*1*5*2# valable 2 jours <br>90Min+90sms+90Mo -----› 1050FCFA -----› Syntaxe directe pour souscrire : *106*1*1*5*3# valable 3 jours <br>120Min+120sms+120Mo -----› 1575FCFA -----› Syntaxe directe pour souscrire : *106*1*1*5*4*1# valable 7 jours <br>"
+         },
+         {
+             "Nom": "Pass TV (PlayCine, TV5Monde, Netflix, MyCanal)",
+             "Description du produit": "<br>Procédure de souscription: <br><br>200 Mo valables 02 jours  -----› 105FCFA -----› Syntaxe directe pour souscrire : **103*1*7*1#<br>1 024 Mo valables 07 jours  -----› 500FCFA -----› Syntaxe directe pour souscrire : **103*1*7*2#<br>2 048 Mo valables 30 jours  -----› 1050FCFA -----› Syntaxe directe pour souscrire : *103*1*7*3#<br>6 144 Mo valables 30 jours  -----› 2100FCFA -----› Syntaxe directe pour souscrire : *103*1*7*4#<br>"
+         },
+         {
+             "Nom": "PlayCiné",
+             "Description du produit": "<br>Suivez le meilleur du cinéma en streaming où que vous soyez. Film, séries africaines, sitcoms, tout pour égayer vos temps libres.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454<br>",
+             "Prix": "<br>Pass jour: <br>105 FCFA"
+         },
+         {
+             "Nom": "Playweez",
+             "Description du produit": "<br>Playweez vous permet de profiter d'un large catalogue de jeux en ligne. Le service est accessible pour tous types de smartphones et est également disponible sur ordinateur<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>"
+         },
+         {
+             "Nom": "Please call me 444",
+             "Description du produit": "<br>Please Call Me ou rappelle moi s’il te plait est un service qui permet à un abonné de contacter gratuitement son correspondant via SMS en lui demandant de le rappeler ou de lui envoyer du crédit de communication .<br>",
+             "Avantages": "<br>1,Service disponible pour tous les abonnés Orange<br>2,Une requête Please Call Me ne peut se faire que sur un numéro Orange<br>3,Le nombre de requêtes par jour : 5 maximum<br>",
+             "Procédure de souscription": "<br>Par USSD : *444*Numéro#<br>"
+         },
+         {
+             "Nom": "Profil Etalon MEGAS",
+             "Description du produit": "<br>Le profil Etalon est un profil qui offre une quantité généreuse de données pour naviguer sur Internet, regarder des vidéos, utiliser les réseaux sociaux et bien plus encore, adaptée à différents niveaux de consommation. <br><br>Pour reconnaitre si le client est inscrit il faudrait aller dans ECMS  -----› Offers  -----› Data Club<br><br>NB: Le profil Etalon ne donne pas droit aux bonus sur les recharges et sur les forfaits internet du mardi et du vendredi. Une fois sur le profil, tu n’as pas droit aux forfaits Oflex, bonus data les mardis et vendredis et bonus recharge. En plus de ces offres, le souscripteur bénéficie d'un Bonus internet de 100% le jour de ton anniversaire. Le service classe(Rate Plan) du client ne change pas.<br><br>Les forfaits sont gelés une fois la date d’expiration est atteint et l’abonné à droit à 10 jours((1Go, 2Go) et 30 jours(8Go, 20Go)  une fois prolonger le forfait est reconduit en plus du forfait restant. ",
+             "Avantages": "<br>",
+             "Procédure de souscription": "<br>La souscription donne un accès permanent à ces offres internet généreuses:<br><br> \t*105*700# pour 1Go à 700F (07 jours)<br> \t*105*1050# pour 2Go à 1050F (14 jours)<br> \t*105*4200# pour 8Go à 4200F (30 jours)<br> \t*105*10000# pour 20Go à 10000F (30 jours)<br>\t* DA concerné : 1201<br><br><br>Souscription gratuite au profil Etalon en composant: *105#<br>Désactivation : *105*2#. (Coût: 500F)"
+         },
+         {
+             "Nom": "Profil SIM 3G/4G",
+             "Description du produit": "<br>Pour vérifier si sa SIM est compatible à la 4G il faut composer *103*8#. Il faut avoir un téléphone compatible à la 4G. <br>"
+         },
+         {
+             "Nom": "Quiz English",
+             "Description du produit": "<br>Le \"Quiz Engilsh\" de Orange Burkina consiste à permettre aux abonnés d'améliorer leur niveau en anglais en traitant les exercices qui leurs sont envoyés par SMS. Accessible via SMS.<br>",
+             "Procédure de souscription": "<br>Pour Activer: Envoyer son prénom au 300.",
+             "Prix": "<br>50F/ SMS<br>"
+         },
+         {
+             "Nom": "Quiz Happy Win",
+             "Description du produit": "<br>La promo «Quiz Happy Win » de Orange Burkina consiste à offrir par tirage au sort des lots aux clients ayant souscrits par SMS et ayant ensuite accumulés des points en répondant aux questions. <br>Il s’agit de questions à choix multiples portant sur la culture générale, le sport, la santé, la musique… Accessible via SMS.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: Envoyer son prénom au 212<br>Procédure de désinscription: STOP au 212<br>",
+             "Prix": "<br>100F/SMS<br>"
+         },
+         {
+             "Nom": "Quiz Liza",
+             "Description du produit": "<br>Au regard du niveau d’inflation que connait le pays et pour permettre à nos abonnés de s’approvisionner en denrées alimentaires à couts réduits, Orange Burkina Faso lance en partenariat avec Liza Market une promotion dénommée «Quiz Liza». <br><br> Le Principe du jeu <br>Après la souscription, le client recevra des questions par SMS auxquelles il devra répondre ;<br><br>Une bonne réponse donne droit à 10 points ; <br><br>Cinq (05) bonnes réponses successives donnent droit à un bonus de 25 points. Le bonus augmente de 5 points à chaque série de 5 bonnes réponses sans interruption ;<br> <br>Une mauvaise réponse donne droit à 5 points.<br><br>Les points cumulés correspondent au niveau de connaissance de l’abonné. Tout abonné ayant obtenu le nombre de points requis pour un pallier, sera éligible pour un tirage au sort.<br>",
+             "Procédure de souscription": "<br>Envoyer son prénom par SMS au 312.  L’inscription donne droit à 50 points <br>Pour ne plus recevoir de questions ou pour consulter ses points l’abonné compose *312#.<br>",
+             "Prix": "<br>Tout SMS envoyé au 312 est facturé à 100 FCFA <br>"
+         },
+         {
+             "Nom": "Quiz Super Fan",
+             "Description du produit": "<br>Quiz permettant aux abonnés de tester leurs connaissances sur les offres et services Orange. Accessible via SMS.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 232<br>",
+             "Prix": "<br>50F/SMS<br>"
+         },
+         {
+             "Nom": "Quiz thématique",
+             "Description du produit": "<br>Le quiz thématique de Orange Burkina consiste à offrir des SMS, des minutes, des forfaits Internet aux clients ayant souscrits par SMS et ayant ensuite accumulés des points en répondant aux questions de culture générale. Accessible via SMS / USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: Envoyer son prénom au 312<br>Procédure de désinscription : *312#<br>",
+             "Prix": "<br>100F/SMS<br>"
+         },
+         {
+             "Nom": "Quiz Vacances ",
+             "Description du produit": "<br>Le \"Quiz 300 Smartphone\" de Orange Burkina consiste à permettre aux abonnés de jouer et tenter de  gagner par jour 10 smartphones de la marques Itel A04 et par semaine un Iphone 14 Pro Max.<br>",
+             "Procédure de souscription": "<br>Pour S'inscrire au jeu: Envoyer Orange au 300.<br>Arrêt du Jeu: Composez *300#<br>",
+             "Prix": "<br>100F/ SMS<br>"
+         },
+         {
+             "Nom": "RTB",
+             "Description du produit": "<br>Un service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média RTB et de participer à des jeux quiz. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: 443<br>Procédure de désinscription: *443*0#<br>",
+             "Prix": "<br>Service d'actualité: <br>25F/Jour<br>100F/Semaine<br>400F/Mois<br>Quiz ponctuel: 250F/SMS<br>Quiz permanent: 100F/SMS<br>"
+         },
+         {
+             "Nom": "SALAM (Islamic Service) 399",
+             "Description du produit": "<br>Ce service permet aux abonnés musulmans d'écouter les prêches et les versets du Coran.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: Appel au 399 ou *399# <br>Procédure de désinscription: Appel au 399 ou *399# puis 4 <br>",
+             "Prix": "<br>Appel: 11F/min <br>32f/ jour <br>105f/ semaine <br>310f/ mois <br>"
+         },
+         {
+             "Nom": "SANTE et NUTRITION 304",
+             "Description du produit": "<br>C'est un service qui permet de recevoir des conseils en matière de nutrition et santé pour une vie saine et équilibrée par SMS. Le service Santé et nutrition vous fournit des recommandations d'aliments à consommer, d'habitudes alimentaires à adopter, d'activités physiques et règles de vie. <br><br>Souscription JOUR : 25F<br>Souscription SEMAINE : 100F<br>Souscription MOIS : 400F",
+             "Procédure de souscription": "<br>Pour souscrire : *3368#<br>Désactiver: *304*0# <br>"
+         },
+         {
+             "Nom": "SAP SAP 433",
+             "Description du produit": "<br>Le Sap Sap est un service qui permet de recherger un compte sans passer par les cartes de recharges, directement d'un téléphone à un autre ",
+             "Procédure de souscription": "<br>Recharge Directe : *433*1*numéro* saisir montant * mot de passe #<br>Envoi de Stock : *433*2* numéro * saisir montant * mot de passe #<br>Consulter Solde : *433*3* mot de passe #<br>Changer de mot de passe : *433*4*ancien*nouveau#<br>"
+         },
+         {
+             "Nom": "Sap Sap Job",
+             "Description du produit": "<br>Service qui permet de recevoir des offres d'emploi <br>",
+             "Procédure de souscription": "<br>Pour Souscrire: *3531#<br>Procédure de désinscription: *3531*1*5#<br>",
+             "Prix": "<br>53f/consultation<br>53F/Jour<br>105F/semiane<br>420f/mois<br>"
+         },
+         {
+             "Nom": "SCHOOLMOBILE",
+             "Description du produit": "<br>Service offrant des cours pour reviser<br>",
+             "Procédure de souscription": "<br>Pour Souscrire:  *3367#<br>Procédure de désinscription: STOP au 454<br>",
+             "Prix": "<br>53F/Jour<br>315F/semaine<br>"
+         },
+         {
+             "Nom": "Shalom",
+             "Description du produit": "<br>Le service Shalom permet aux abonnés d'écouter des prières, des chansons religieuses, des loaunges et d'écouter la Bible en appelant le 395. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: *395# appel au 395<br>Procédure de désinscription: *395# puis 4<br>",
+             "Prix": "<br>Jour: 30F          <br>Semaine: 100F<br>Mois: 300F<br>"
+         },
+         {
+             "Nom": "SIDWAYA 334",
+             "Description du produit": "<br>Un service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité SIDWAYA. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Procédure de désinscription: Déconnexion par USSD *334*2# , Montant facturé : 0F<br>",
+             "Prix": "<br>Consultation: 28F<br>28/ jour <br>105/ semaine<br>425/ mois<br>"
+         },
+         {
+             "Nom": "SIM AGENT Orange Money Conditions ",
+             "Description du produit": "<br>Pour avoir une sim agent OM<br><br>Le client se rends dans une de nos agence pour avoir sa sim agent <br>Les conditions: <br><br>1. Un montant de 1 million ( OUAGA et BOBO) et 500.000 (pour les autres localités) qui sera déposé sur son compte OM<br>2. Photocopie simple de CNIB ou document d'identité<br>3. Une facture ONEA ou SONABEL <br>4. Le RCCM <br>5. IFU - Identifiant Fiscal Unique <br>6. Casier judiciaire datant de moins de 03 mois <br>",
+             "Avantages": "<br>",
+             "Prix": "<br>Somme d'1 million ( OUAGA et BOBO) et 500.000 (pour les autres localités)"
+         },
+         {
+             "Nom": "SMS à GOGO",
+             "Description du produit": "<br>Composez la syntaxe *101# et suivez les instructions pour choisir votre offre.<br>10 SMS -----› 11 FCFA -----› Syntaxe directe pour souscrire : *101*1# valable jusqu'à 23h59<br>50 SMS -----› 27 FCFA -----› Syntaxe directe pour souscrire : *101*2# valable jusqu'à 23h59<br>100SMS -----› 53 FCFA -----› Syntaxe directe pour souscrire : *101*3# valable 2 jours <br>200SMS -----› 105 FCFA -----› Syntaxe directe pour souscrire : *101*4# valable 3 jours<br>"
+         },
+         {
+             "Nom": "SMS Concours",
+             "Description du produit": "<br>Permet de s'exercer via des QCM, pour la préparation des concours de la fonction publique. Accessible via SMS / USSD.<br>",
+             "Procédure de souscription": "<br>Pour souscrire: *424#<br>Procédure de désinscription: STOP par SMS au 424<br>",
+             "Prix": "<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>"
+         },
+         {
+             "Nom": "SONABEL Recharger compteur ",
+             "Description du produit": "<br>Il est possible de recharger son compteur d'électricité SONABEL avec Orange Money. <br><br>1. Composer le : *144*4*2*2*2*1*2*Numéro de compteur*Montant# <br>2. Saisir votre code PIN et valider  <br>Orange vous envoie alors par SMS un code avec les chiffres des unités à taper sur le clavier de votre compteur électrique prépayé pour le recharger <br><br>"
+         },
+         {
+             "Nom": "SORIGAL",
+             "Description du produit": "<br>Service d'assistance juridique en ligne. Appel uniquement.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire: Appel 3473<br>Procédure de désinscription: STOP au 3368<br>",
+             "Prix": "<br>158F/min<br>"
+         },
+         {
+             "Nom": "SOS crédit  ",
+             "Description du produit": "<br>Ce service vous permet de prendre un crédit qui sera déduit de votre prochaine recharge.<br>Le Crédit octroyé est fonction de la consommation des 3 derniers mois.<br>",
+             "Avantages": "<br>Empruntez un crédit de communication de 90F, 180F, 450F ou 900F si vous remplissez les conditions ci-dessous :<br><br>Etre abonné au réseau depuis au moins 6 mois<br>Avoir un solde inférieur à 10 F<br>Le crédit emprunté est balayé au remboursement dès la recharge<br>",
+             "Procédure de souscription": "<br>Composer le *800# pour souscrire <br>Pour consulter son solde SOS le client compose: *160*6# <br>",
+             "Prix": "<br>Montant du prêt \tCrédit à rembourser<br>90 F\t\t100 F<br>180 F\t\t200 F<br>450 F\t\t500 F<br>900 F\t\t1000 F<br>"
+         },
+         {
+             "Nom": "SOS MEGA ",
+             "Description du produit": "<br>C'est un service de dépannage des abonnés Orange en forfait internet. (SERVICE SUSPENDU DEPUIS LE 30/11/2023)<br><br>Les  conditions : <br>1. Etre abonné au réseau depuis au moins 6 mois <br>2. Solde inférieur à 100F <br>3. Moins de 1Mo dans son compte internet <br>4. Aucun emprunt en cours <br><br>Procédure : *103*5# et sélectionner le volume souhaité ( 5Mo - 25Mo - 120 Mo) <br>"
+         },
+         {
+             "Nom": "SPORT 24/7(Mobile cashout)",
+             "Description du produit": "<br>C'est un service qui donne des informations sur le sport <br><br>Toujous vérifier L'affichage dans ECMS <br><br>External data 1 : BIZAOHYB et External data 2 : Mobile Cashout - Sport24/7<br>Si External data 1 n'est pas  BIZAOHYB et External data 2 : Mobile Cashout ce n'est pas Sport24/7 <br>",
+             "Procédure de souscription": "<br>Désactivation: Envoyer STOP au 454<br>"
+         },
+         {
+             "Nom": "STREAMING ILLIMITE",
+             "Description du produit": "<br>Streaming illimité est un service de vidéo à la demande donnant un accès illimité à plusieurs contenus en streaming répartis sur différentes catégories en fonction du besoin du consommateur. <br>",
+             "Procédure de souscription": "<br>Inscription: 105frs jour avec renouvellement auto<br>263frs a l’acte (Pour 24h sans renouvellement automatique)<br><br>Désabonnement: STOP SI au 452<br>"
+         },
+         {
+             "Nom": "SULLY",
+             "Description du produit": "<br>Est une offre prépayée ( sans facture) incluant l’intra flotte illimité et des avantages  selon la consommation du mois précédent. Elle offre de nombreux avantages dès l'activation :<br>500F de crédit tous réseaux et international<br>2700F de crédit vers Orange<br>100 Mo de volume Internet<br>Minutes & SMS mensuel offerts selon conso du mois précèdent<br>Appels en illimité vers les numéros de l’association<br>",
+             "Avantages": "<br>Avantage de bienvenus (bonus déposé à la souscription)<br>Une tarification préférentielle en intra-flotte suivant un niveau de consommation<br>Minutes de communication et SMS offerts chaque mois selon la conso.<br>",
+             "Procédure de souscription": "<br>Condition d'accès  & Segment de marché : <br><br>Récépissé de l’association |Copie CNIB du responsable |Facture d’eau, d’électricité ou contrat de  bail<br>CNI des utilisateurs finaux<br>Paiement des Frais d’accès au service ( 500F/ SIM ou numéro à activer)<br>Offre exclusive : Association, Groupement/Coopérative, communauté religieuse<br>",
+             "Prix": "<br>Tarif Intra-Flotte :<br>30F/min si Consommation mensuelle<3000<br>0F si consommation du mois >=3000 <br><br>Tarif hors-Flotte :<br>Appels nationaux (ONNET et OFFNET) : 1,5 F/S<br>Appels internationaux : 49,5F/30s (Z1); 75F/30s (Z2); 125F/30s (Z3);<br>SMS national ONNET : 10 F/SMS<br>SMS national OFFNET : 20 F/SMS<br>Data (si souscription)<br>Roaming (si crédit disponible)<br>"
+         },
+         {
+             "Nom": "Tarifs et syntaxe Numéro Magique",
+             "Description du produit": "<br>Appel illimité vers un numero et vice-versa pendant une journée -----› 315FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*1#<br>Appel illimité vers un numero et vice-versa pendant 7 jours -----› 1575FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*7#<br>Appel illimité vers un numero et vice-versa pendant un mois -----› 5250FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*30#<br>"
+         },
+         {
+             "Nom": "VAS DESACTIVATION 2023",
+             "Description du produit": "<br>Allo Muzik -----›  3505 -----›  Envoyer STOP  au 3505<br><br>Mobile Classified -----›  *500# -----›  Déconnexion par USSD *500*0#<br><br>Orange Football -----›  *526# -----›  Déconnexion par USSD *526*3#<br><br>STK -----›  *456# -----›  Déconnexion par USSD<br><br>Sidwaya Mobile -----›  *334# -----›  Déconnexion par USSD *334*2#<br><br>Burkina 24 -----›  *337# -----› Déconnexion par USSD<br><br>Service Islamique -----›  *399# -----›  Déconnexion par USSD *399*4#<br><br>Friendz Chat -----›  *210# -----› Envoyer STOP  au 210<br><br>Concours sms -----›  *424# -----› Envoyer STOP  au 424<br><br>BANGRE SMS -----›  *424# -----› Envoyer STOP  au 424<br><br>QUIZ FOOT -----›  311 -----› Envoyer STOP  au 311<br><br>MAGIQUE VOICE  -----›  *145# -----› Déconnexion par USSD *145*4# <br><br>CELEBRITES -----›  *314# -----› Déconnection par SMS en envoyant STOP SOUKEJOUR au 314<br><br>Youscribe -----›  452 -----› STOP  au 454<br><br>Weezchat -----› 352 -----›  STOP au 454 <br><br>Bible -----›  *395# -----› Déconnexion par USSD *395*4#<br><br>service mousso -----›  707 -----›  STOP ou  *707*8#<br><br>English club -----›  300 -----› Envoyer STOP  au 300<br><br>Iska -----›  *201# -----› Déconnexion par USSD *201*1*4#<br><br>Gap -----› *201# -----› Déconnexion par USSD *201*2*4#<br><br>FUNCELL -----›  454 -----› FUNCELL.MOBI/ (Résiliation)ou STOP au 454<br><br>OFC (live match  ou unkwon ou Crédit goal) -----›  *530# -----›  Envoyer STOP au 530<br><br>Learn English -----›  397 -----›  Déconnexion par USSD *397*4#<br><br>LibreInfo.Net -----›  *540# -----› Déconnexion par USSD *540*3#<br><br>COACHINGSMS -----›  *248# -----›  Déconnexion par USSD *248*3#<br><br>GBICHSMS -----›  *326# -----› Déconnexion par USSD *326*3#<br><br>GAMELOFT -----›  464 -----›  Envoyer STOP au 464<br><br>CLICNSCORE -----› 452 -----› Envoyer STOP au 454<br><br>DIGSTER -----›  452 -----› Envoyer STOP au 454<br><br>PLAYCINE -----› 452 -----› Envoyer STOP  au 454<br><br>PLAYWEEZ -----› 452 -----› Envoyer STOP au 454<br><br>MOLOTOV(veedz tv)-----› 452 -----› Envoyer STOP au 454<br><br>ZIKPLAY -----› 452 -----› Envoyer STOP ZIK au 452 <br><br>MOBVISION -----› 383 -----› Envoyer MV STOP au 383 <br><br>VIDDIGO -----› 454 -----› Envoyer STOP au 454<br><br>QUIZ HAPPY WIN -----› 212 -----› Envoyer STOP au 212<br><br>STREAMING ILLIMITE -----›  452  -----›  Envoyer STOP SI au 452<br><br>ORANGE JEUX (Ogaming) -----›  452 -----› Envoyer STOP OJ au 452<br><br>E-FITNESS 452 Lien  http://etopfitness.com/ <br><br>SPORT 24/7(Mobile cashout) -----› 452 -----›  Envoyer STOP au 454<br><br>Digital connect / SAP SAP JOB -----› *3531# -----› Déconnexion par USSD *3531*1*5#<br>Digital connect / IMMO REUSSITE -----› *3531# -----› Déconnexion par USSD *3531*2*5#<br>Digital connect / HYPODROME -----›  *3531# -----›  Déconnexion par USSD *3531*3*5#<br>Digital connect / Immigr Canada- USA -----›  *3531# -----›  Déconnexion par USSD *3531*4*5#<br>Digital connect / International Market  -----›  *3531# -----›  Déconnexion par USSD *3531*5*5#<br>Digital connect / Franglais  -----›  *3531# -----›  Déconnexion par USSD *3531*6*5#<br><br>ALERTE BOURSE ETUDE(Dayala compagnie) -----›  *3509# -----› Déconnexion par USSD *3509*0#<br><br>SANTE et NUTRITION -----›  *304# -----›  Envoyer STOP au 304  ou  *304*0#<br><br>DIET SMS -----›  *3074# -----›  Envoyer STOP au 3074 OU *3074*0#<br><br>ACTUALITE HYPPIQUE -----›  *3303# Envoyer STOP au 3074 OU *3303*0#<br><br>ORANGE INFO  -----›  *456# -----› Déconnexion par USSD *456*4#<br><br>BLAGUE SMS  *326*3# Déconnexion par USSD *326*3#<br><br>"
+         },
+         {
+             "Nom": "Viddigo",
+             "Description du produit": "<br>« VIDDIGO » offre à ses utilisateurs des services de télévision en streaming et de vidéo à la demande de haute qualité. Il regorge d'émissions de télévision, de programmes sur le style de vie, de dessins animés, de vidéos pédagogiques, d'informations sur les stars, d'événements sportifs et bien plus encore .<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>"
+         },
+         {
+             "Nom": "Weezchat",
+             "Description du produit": "<br>WeezChat est un service de tchat en ligne et rencontres, le mix parfait qui permet de découvrir les célibataires près de chez vous.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
+             "Prix": "<br>Pass jour: <br>105 FCFA<br>"
+         },
+         {
+             "Nom": "Ya affairé",
+             "Description du produit": "<br>C'est une offre prépayée (sans facture) permettant de bénéficier de l’intra flotte illimité à partir de 3000F de consommation mensuelle. <br><br>Elle offre les possibilités ci-après :<br>1. La Création et la gestion en toute autonomie d’une flotte de 5 lignes maximum<br>2. Tarif préférentiel pour les appels intracommunautaires<br>3. 100% de bonus pour tout achat d’un forfait voix (Validité 30 jours).<br>",
+             "Avantages": "<br>Offre Flexible et sans Facture<br>Autonomie de gestion de la flotte<br>Une tarification préférentielle en intra-flotte suivant un niveau de consommation<br>Quatre (04) Forfaits Voix au choix à partir de 4900F avec 100% de bonus offert pour une validité de  1 mois.<br>",
+             "Procédure de souscription": "<br>Condition d'accès  & Segment de marché : <br><br>1. Copie RCCM| Copie CNIB du Dirigeant| facture ONEA/SONABEL<br>2. Paiement de la première facture<br>3. Contrat de 1an minimum<br>4. Grand compte, PME<br>",
+             "Prix": "<br>Tarif Intra-Flotte :<br>30F/min si Consommation mensuelle<3000<br>0F si consommation du mois >=3000<br><br>Tarif hors-Flotte :<br>Appels nationaux (ONNET et OFFNET) : 1,5 F/S<br>Appels internationaux : 49,5F/30s (Z1); 75F/30s (Z2); 125F/30s (Z3);<br>SMS national ONNET : 10 F/SMS<br>SMS national OFFNET : 20 F/SMS<br>Data (si souscription)<br>Roaming (si crédit disponible)<br>"
+         },
+         {
+             "Nom": "Youscribe",
+             "Description du produit": "<br>Télécharger l’application YouScribe pour lire en streaming depuis votre smartphone, tablette ou ordinateur des milliers d’ouvrages numériques: romans contemporains et grands classiques de littérature, ouvrages professionnels et conseils pratiques, guides de voyages pour toutes vos destinations, livres de cuisine… Il y en a pour tous les âges et tous les goûts!<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454<br>",
+             "Prix": "<br>Pass jour: <br>126 FCFA<br>"
+         },
+         {
+             "Nom": "Zikplay",
+             "Description du produit": "<br>Avec Zikplay écoutez et téléchargez des centaines de musique sur PC, Smartphone ou bien tablette. Une multitude de genres musicaux et d’artistes locaux et internationaux.<br>",
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP ZIK au 452<br>",
+             "Prix": "<br>Pass Semaine: <br>420 FCFA<br>"
+         },
+         {
+             "Nom": "ORANGE ARENA",
+             "Description du produit": "<br>C' est une plateforme de divertissement de E-sport avec laquelle les utilisateurs peuvent voir des matchs pros ou Tournois ESport en live, et profiter d’une collection unique de guides en vidéos. Les vrais joueurs peuvent défier d’autres joueurs et participer aux tournois disponibles sur l’ARENA .",
+             "Procédure de souscription": "<br>Facturation: <br>A l’acte : 315F<br>Souscription renewal : 200F<br><br>DESABONNEMENT : <br>Envoyer STOP OA au 452."
+         },
+         {
+            "Nom":"e-casier judiciaire",
+            "Description du produit":"Accéder à son casier judiciaire sans se déplacer",
+            "Procédure de souscription": "<br>Etape 1: <br>Rendez-vous sur le site www.ecasier-judiciaire.gov.bf <br> <br> Etape 2:<br>Cliquer sur Faire sa demande et entrer les informations demandées <br> <br> Etape 3: <br>Télécharger les documents demandées ( CNIB et Extrait de naissance) <br> <br> Etape 4:<br> Relire le récapitulatif des informations fournies et valider la demande <br> <br> Etape 5: <br> Cliquez sur Effectuer le paiement et choisir l’icone Orange Money qui s’affiche <br> <br>Etape 6:<br>Composez la Syntaxe *144*4*6*750 # pour générer le Code OTP <br> <br>Etape 7: <br>Insérer le code OTP dans la barre qui s’affiche et valider le paiement && Télécharger votre récépissé de demande<br> <br>",
+            "img": "/Images/ecasier.jpg"
+        }
+     ]
+ }
