@@ -5,25 +5,26 @@
              "Description du produit": "<br>Le 321 est un service qui permet aux abonnés de bénéficier d'informations  et de conseils sur l'agriculture en appelant le 321. Accessible via IVR.<br>",
              "Procédure de souscription": "<br>Pour souscrire: 321<br>",
              "Prix": "<br>25f à partir du 4ème appel du mois<br>",
-             "link": "Abonnement Canal sat via OM "
+             "link": "VAS DESACTIVATION"
          },
          {
-             "Nom": "Abonnement Canal sat via OM ",
-             "Description du produit": "<br>Procédure : *144*4*2*4# et choisir soit <br> <br> 1- Réabonnement ( *144*4*2*4*1*2*Numéro de carte décodeur# OK puis entrer code PIN )<br> 2- Changement d'offre ( *144*4*2*4*2*2# Ensuite Choisir la formule en répondant avec le chiffre de la formule désirée ( 1 pour Evasion plus - 2 pour Acces plus - 3 pour Evasion - 4 pour Essentiel plus - 5 pour Acces - 6 pour Tout canal - 7 pour Iroko plus ) Entrer ensuite la durée de l'abonnement et code PIN <br> 3- Régularisation : La régularisation s'applique uniquement aux abonnés en prélèvement bancaire ayant un impayé <br> 4- Mémorisation : *144*4*2*4*4*1*Numéro de carte décodeur # puis code PIN <br>"
+             "Nom": "Abonnement Canal sat via OM",
+             "Description du produit": "Abonnement Canal sat via OM <br> <br>Procédure : <br>*144*4*2*4# et choisir soit :<br> <br> 1- Réabonnement ( *144*4*2*4*1*2*Numéro de carte décodeur# OK puis entrer code PIN )<br> <br>2- Changement d'offre ( *144*4*2*4*2*2# Ensuite Choisir la formule en répondant avec le chiffre de la formule désirée ( 1 pour Evasion plus - 2 pour Acces plus - 3 pour Evasion - 4 pour Essentiel plus - 5 pour Acces - 6 pour Tout canal - 7 pour Iroko plus ) Entrer ensuite la durée de l'abonnement et code PIN <br> <br>3- Régularisation : La régularisation s'applique uniquement aux abonnés en prélèvement bancaire ayant un impayé <br> <br>4- Mémorisation : *144*4*2*4*4*1*Numéro de carte décodeur # puis code PIN <br> <br>",
+             "img": "/Images/Abonnement_Canal.png"
          },
          {
              "Nom": "Achat d'unités par ORANGE MONEY",
-             "Description du produit": "<br>Pour soi même:  *144*1*1* Montant d'unité à acheter# Confirmer les informations saisies et saisir son code PIN<br><br>Pour une autre personne :  *144*1*2*Numéro à recharger* Montant d'unité# Confirmer les informations saisies et saisir son code PIN<br>"
+             "Description du produit": "Achat d'unités par ORANGE MONEY <br> <br>Pour soi même:  *144*1*1* Montant d'unité à acheter# Confirmer les informations saisies et saisir son code PIN<br><br>Pour une autre personne :  *144*1*2*Numéro à recharger* Montant d'unité# Confirmer les informations saisies et saisir son code PIN<br>"
          },
          {
              "Nom": "Actualité Boursière 310 ",
-             "Description du produit": "<br>Toute l'actualité financière de la BRVM et de l'agence Ecofin par SMS <br>",
+             "Description du produit": "Actualité Boursière 310 <br>Toute l'actualité financière de la BRVM et de l'agence Ecofin par SMS <br>",
              "Procédure de souscription": "<br>Pour souscrire: *310#<br>Désactivation: STOP au 310<br>",
              "Prix": "<br>25F / JOUR <br>100F / SEMAINE<br>400F / MOIS <br>Consultation : 25 F<br>"
          },
          {
              "Nom": "Actualité Hyppique ",
-             "Description du produit": "<br>Service permettant de recevoir lactualité hyppique par SMS<br>",
+             "Description du produit": "Actualité Hyppique <br> <br>Service permettant de recevoir lactualité hyppique par SMS<br>",
              "Procédure de souscription": "<br>3303 par SMS<br>Consultations: envoyez  P par SMS au 3303<br>Procédure de désinscription : Envoyer STOP au 3074 OU *3303*0#<br>",
              "Prix": "<br>53F/SMS<br>"
          },
@@ -35,15 +36,17 @@
          },
          {
              "Nom": "Alertes Bourses Etudes (Dayala compagnie)",
-             "Description du produit": "<br>Service permettant de recevoir les offres de bourses par SMS. Accessible via USSD.<br>",
+             "Description du produit": "Alertes Bourses Etudes (Dayala compagnie)<br> <br>Service permettant de recevoir les offres de bourses par SMS. Accessible via USSD.<br>",
              "Procédure de souscription": "<br>Pour Souscrire :  *3509#<br>Procédure de désinscription : *3509*0#<br>",
              "Prix": "<br>28F/Jour<br>105F/semaine<br>420F/mois<br>"
          },
          {
              "Nom": "Allo Muzik",
-             "Description du produit": "<br>Service qui permet aux abonnées d'accueillir leurs correspondants avec la musique de leur choix. Accessible via USSD.<br>",
-             "Procédure de souscription": "<br>Pour Souscrire : Appel au 3505<br>Procédure de désinscription : *355*5# ou envoyer STOP par SMS au 3505<br>",
-             "Prix": "<br>Souscription : 100    <br>Tonalité : 150  <br>validité: 1 mois<br>"
+             "Description du produit": "Allo Muzik <br> <br>Service qui permet aux abonnées d'accueillir leurs correspondants avec la musique de leur choix. Accessible via USSD.<br>",
+             "Procédure de souscription": "<br>Pour Souscrire : Appel au 3505 ou compose *355# <br>Procédure de désinscription : *355*5# ou envoyer STOP par SMS au 3505<br>",
+             "Prix": "<br>Souscription : 100    <br>Tonalité : 150  <br>validité: 1 mois<br>",
+             "img": "/Images/allo_musik.png"
+             
          },
          {
              "Nom": "Appel en conference",
@@ -53,14 +56,15 @@
              "Prix": "<br>Gratuit<br>Conférence téléphonique<br>Sans engagement<br>"
          },
          {
-             "Nom": "Avantages SIM Etalon",
-             "Description du produit": "<br>Avec la SIM Orange à 250FCFA vous gagnez : <br><br>300 % de bonus sur toutes les 1ères recharges du mois pendant 03 mois et valable tout réseaux,<br>1500 Mo soit 500Mo par mois pendant 3 mois <br>900 SMS soit 300SMS par mois pendant 3 mois <br>15 Min offerts au 4e mois <br>200F sur le compte OM pour les nouveaux clients <br>"
+             "Nom": "Avantages SIM GIGA vacances",
+             "Description du produit": "<br>Avec la SIM Orange à 250FCFA vous gagnez : <br><br>300 % de bonus sur toutes les 1ères recharges du mois pendant 03 mois et valable tout réseaux,<br>3 Go soit 1Go par mois pendant 3 mois <br>900 SMS soit 300SMS par mois pendant 3 mois <br>200F sur le compte OM pour les nouveaux clients <br>",
+             "img": "/Images/giga_simvacance.jpg"
          },
          {
              "Nom": "BANGRE SMS",
-             "Description du produit": "<br>Permet de s'exercer via des QCM, pour la préparation des examens de classe. Accessible via SMS / USSD.<br>",
+             "Description du produit": "BANGRE SMS <br>Permet de s'exercer via des QCM, pour la préparation des examens de classe. Accessible via SMS / USSD.<br>",
              "Procédure de souscription": "<br>Pour souscrire:  *424#<br>Procédure de désinscription: STOP par SMS au 424<br>",
-             "Prix": "<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>"
+             "Prix": "<br>Jour: 25F <br>Semaine: 100F <br>Mois: 400F<br>"
          },
          {
              "Nom": "BEST ENGLISH",
@@ -80,30 +84,36 @@
          {
              "Nom": "Busuu BF",
              "Description du produit": "<br>Busuu BF est une plateforme d’apprentissage linguistique avec une offre étendue de 14 langues mondiales afin de transformez chaque leçon en une opportunité de connexion, de découverte et de croissance personnelle. ",
-             "Procédure de souscription": "<br>*Souscription à 200F/Jour<br>*Achat à l’acte 350F<br><br>Désactivation : STOP BU au 452.<br>"
+             "Procédure de souscription": "<br>*Souscription à 200F/Jour<br>*Achat à l’acte 350F<br><br>Désactivation : STOP BU au 452.<br>",
+             "link": "Liste des VAS activés sur un numéro"
          },
          {
              "Nom": "Buzz-Mobi - DIGITALVIRGOHYB",
              "Description du produit": "<br>Il s'agit d'un réseau avec applications, jeux, vidéos, photos etc... <br>Souscription JOUR : 105F (reconductible tacitement ) ou en sélectionnant l'achat à l'acte pour 263F/jour <br>",
-             "Procédure de souscription": "<br>Procédure de désactivation : STOP BUZZ au 452 (coût du sms : 0F) <br>"
+             "Procédure de souscription": "<br>Procédure de désactivation : STOP BUZZ au 452 (coût du sms : 0F) <br>",
+             "link": "Liste des VAS activés sur un numéro"
          },
          {
              "Nom": "Celebrity",
              "Description du produit": "<br>Le service \"Celebrity\" permet aux abonnés de suivre l'actualité d'une célébrité en écoutant les messages qui leur laisse quotidiennement. Accessible via USSD/IVR.<br>",
              "Procédure de souscription": "<br>Pour souscrire: *314#<br>Procédure de désinscription: Par SMS STOPSOUKEJOUR au 314<br>",
-             "Prix": "<br>Jour: 25F          <br>Semaine: 100F  <br>"
+             "Prix": "<br>Jour: 25F          <br>Semaine: 100F  <br>",
+             "link": "Liste des VAS activés sur un numéro"
          },
          {
              "Nom": "Clicnscore",
              "Description du produit": "<br>Clicnscore est un service qui permet de suivre tous les résultats sportifs en direct, d’avoir toujours les derniers résultats et classements de vos équipes.  <br>",
              "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
-             "Prix": "<br>Pass jour: <br>105 FCFA<br>"
+             "Prix": "<br>Pass jour: <br>105 FCFA<br>",
+             "img": "/Images/ClicNscore.jpg",
+             "link": "Liste des VAS activés sur un numéro"
          },
          {
              "Nom": "COACHING SMS",
              "Description du produit": "<br>Service de coaching par SMS. Accessible via USSD.<br>",
              "Procédure de souscription": "<br>Pour Souscrire: *248#<br>Procédure de désinscription: *248*3#<br>",
-             "Prix": "<br>28/Consultations<br>11f/SMS<br>"
+             "Prix": "<br>28/Consultations<br>11f/SMS<br>",
+             "link": "Liste des VAS activés sur un numéro"
          },
          {
              "Nom": "CPT BONUS",
@@ -152,13 +162,56 @@
              "Nom": "Digster",
              "Description du produit": "<br>Digster est une application qui vous permet de profiter de vos sons favoris en streaming.<br>",
              "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
-             "Prix": "<br>Pass jour: <br>105 FCFA<br>"
+             "Prix": "<br>Pass jour: <br>105 FCFA<br>",
+             "img":"/Images/digster.jpg"
          },
          {
-             "Nom": "Echanger ses points de fidélité avec des produits",
-             "Description du produit": "<br>NOM DU PRODUIT -----› POINTS -----› CODE <br><br>100MB -----› 200 -----› rd(ESPACE)100MB <br><br>500MB -----› 500 -----› rd(ESPACE)500MB <br><br>1GB -----› 600 -----› rd(ESPACE)1GO <br><br>10MIN -----› 60 -----› rd(ESPACE)10MIN <br><br>30MIN -----› 250 -----› rd(ESPACE)30MIN <br><br>1H -----› 450 -----› rd(ESPACE)1H <br><br>2H -----› 800 -----› rd(ESPACE)2H <br><br>50SMS -----› 50 -----› rd(ESPACE)50SMS <br><br>SANZA2 -----› 3700 -----›rd(ESPACE)SANZA2 <br><br>SANZA XL -----› 6159 -----› rd (ESPACE)SANZAXL <br><br>ROUTEUR HH42V -----› 8700 -----› rd(ESPACE)ROUTEURH <br><br>ITEL 2132 -----› 2000 -----› rd(ESPACE)ITEL2132 <br><br>ITEL A48 -----› 10000 -----› rd (ESPACE)ITELA48 <br><br>ROUTEUR TR11-----› 8 6000 -----› rd(ESPACE)ROUTEURTR118 <br><br>FLYBOX B612 -----› 5000 -----› rd(ESPACE)FLYBOXB612 <br><br>FIXE MW35 -----› 4000 -----› rd(ESPACE)FIXEMW35 <br><br>INFINIX HOT12I -----› 23000 -----› rd(ESPACE)INFINIXHOT12I <br><br>TECNO SPARK9 -----› 25000 -----› rd(ESPACE)TECNOSPARK9 <br><br>TECNO SPARK9 PRO -----› 30000 -----› rd(ESPACE)TECNOSPARK9PRO <br><br>TECNO CAMON19 -----› 35000 -----› rd (ESPACE)TECNOCAMON19 <br><br>TECNO CAMON19 PRO -----› 45000 -----› rd(ESPACE)TECNOCAMON19PRO <br><br>SAMSUNG A03CORE -----› 14000 -----› rd(ESPACE)A03CORE <br><br>SAMSUNG A04S 64GB -----› 23000 -----› rd(ESPACE)A04S64 <br><br>SAMSUNG A04S 32G -----› 21000 -----› rd(ESPACE)A04S32 <br><br><br>PRODUITS PARTENAIRES <br><br>NOM DU PRODUIT -----› POINTS -----› CODE <br><br>SUCRE 5KG  -----› 1000  -----› rd(ESPACE)SUCRE5 <br><br>SUCRE25KG  -----› 4140  -----› rd(ESPACE)SUCRE25 <br><br>SAVON CITEC  -----› 2520  -----› rd(ESPACE)SAVON <br><br>HUILE 5L  -----› 1200  -----› rd(ESPACE)HUILE5 <br><br>HUILE 20L  -----› 3700  -----› rd(ESPACE)HUILE20 <br><br>SUCRE 50KG  -----› 5700  -----› rd(ESPACE)SUCRE50 <br><br>PANIER  -----› 9000  -----› rd(ESPACE)PANIER <br><br>KIT  -----› 6000  -----› rd(ESPACE)KIT <br>",
-             "Avantages": "<br>Échangez vos points de fidélité en vous référant à votre gestionnaire de compte ou au catalogue des produits.<br>"
+             "Nom": "Le programme de fidélité - Echanger points de fidélité avec produits GSM",
+             "Tableau": [
+        ["NOM DU PRODUIT", "POINTS", "CODE"],
+        ["SANZA2", "3700", "RD(ESPACE)SANZA2"],
+        ["SANZA XL", "6159", "RD(ESPACE)SANZAXL"],
+        ["ROUTEUR HH42V", "8700", "RD(ESPACE)ROUTEURH"],
+        ["ITEL 2132", "2000", "RD(ESPACE)ITEL2132"],
+        ["ITEL A48", "10000", "RD(ESPACE)ITELA48"],
+        ["ROUTEUR TR118", "6000", "RD(ESPACE)ROUTEURTR118"],
+        ["FLYBOX B612", "5000", "RD(ESPACE)FLYBOXB612"],
+        ["FIXE MW35", "4000", "RD(ESPACE)FIXEMW35"],
+        ["INFINIX HOT12I", "23000", "RD(ESPACE)INFINIXHOT12I"],
+        ["TECNO SPARK9", "25000", "RD(ESPACE)TECNOSPARK9"],
+        ["TECNO SPARK9 PRO", "30000", "RD(ESPACE)TECNOSPARK9PRO"],
+        ["TECNO CAMON19", "35000", "RD(ESPACE)TECNOCAMON19"],
+        ["TECNO CAMON19 PRO", "45000", "RD(ESPACE)TECNOCAMON19PRO"],
+        ["100MB", "200", "RD(ESPACE)100MB"],
+        ["500MB", "500", "RD(ESPACE)500MB"],
+        ["1GB", "600", "RD(ESPACE)1GO"],
+        ["10MIN", "60", "RD(ESPACE)10MIN"],
+        ["30MIN", "250", "RD(ESPACE)30MIN"],
+        ["1H", "450", "RD(ESPACE)1H"],
+        ["2H", "800", "RD(ESPACE)2H"],
+        ["SAMSUNG A03CORE", "14000", "RD(ESPACE)A03CORE"],
+        ["SAMSUNG A04S 64GB", "23000", "RD(ESPACE)A04S64"],
+        ["SAMSUNG A04S 32G", "21000", "RD(ESPACE)A04S32"],
+        ["50SMS", "50", "RD(ESPACE)50SMS"]
+    ],
+             "link": "Le programme de fidélité Orange"
          },
+
+         {
+            "Nom": "Le programme de fidélité - Echanger points de fidélité avec produits NON GSM",
+            "Tableau": [
+                ["NOM DU PRODUIT", "POINTS", "CODE"],
+                ["SUCRE 5KG", "1000", "RD(ESPACE)SUCRE5"],
+                ["SUCRE 25KG", "4140", "RD(ESPACE)SUCRE25"],
+                ["SAVON CITEC", "2520", "RD(ESPACE)SAVON"],
+                ["HUILE 5L", "1200", "RD(ESPACE)HUILE5"],
+                ["HUILE 20L", "3700", "RD(ESPACE)HUILE20"],
+                ["SUCRE 50KG", "5700", "RD(ESPACE)SUCRE50"],
+                ["PANIER", "9000", "RD(ESPACE)PANIER"],
+                ["KIT", "6000", "RD(ESPACE)KIT"]
+            ],
+            "img":"/Images/orange_fidelit.png"
+        },
          {
              "Nom": "Économiser forfaits internet ",
              "Description du produit": "<br>Plusieurs astuces sont à votre disposition pour vous permettre d’économiser vos pass internet.<br>Paramétrer votre smartphone. Arrêter les applications qui s’activent automatiquement, Activer le mode économiseur de données en arrière-plan, Désactiver la mise à jour automatique des applications.<br>Paramétrer votre navigateur internet. Vous pouvez activer le mode économiseur de données dans votre navigateur internet habituel.<br>Paramétrer l’utilisation de certaines applications. Sur YouTube, par exemple pour lire des vidéos avec votre forfait internet, vous devez privilégier une qualité de lecture de 480 pixels. Sur Facebook, vous pouvez désactiver la lecture automatique des vidéos pour ne lire que les vidéos qui vous intéressent vraiment.<br>"
@@ -210,7 +263,8 @@
          {
              "Nom": "Forfait roaming ",
              "Description du produit": "<br> <br> Pour les clients « prépayés » composer *119# puis suivez les instructions pour souscrire <br> Pour les clients « post payés » composer *151# pour activer la souscription.<br>",
-             "Procédure de souscription": "<br>20Mo -----› 525FCFA valables 15 jours -----› Syntaxe *103*1*4*1#<br>50Mo -----› 1050FCA valables 15 jours -----›  Syntaxe *103*1*4*2#<br>250Mo -----› 2625 valables 30 jours -----› Syntaxe *103*1*4*3#<br>1Go -----› 5250FCFA valables 30 jours -----› Synataxe *103*1*4*4# <br> <br> "
+             "Procédure de souscription": "<br>20Mo -----› 525FCFA valables 15 jours -----› Syntaxe *103*1*4*1#<br>50Mo -----› 1050FCA valables 15 jours -----›  Syntaxe *103*1*4*2#<br>250Mo -----› 2625 valables 30 jours -----› Syntaxe *103*1*4*3#<br>1Go -----› 5250FCFA valables 30 jours -----› Synataxe *103*1*4*4# <br> <br> ",
+             "link": "Le roaming ou données mobiles en itinérance"
             },
          {
              "Nom": "Forfait sms",
@@ -226,7 +280,8 @@
              "Nom": "Friendz Chat 210",
              "Description du produit": "<br>Friendz Chat est un service qui permet aux clients qui y souscrivent de pouvoir faire des appels et des SMS à tarif préférentiel.<br>",
              "Procédure de souscription": "<br>Pour souscrire :<br>Appeler au 210 et suivre les instructions<br>Via le SMS: envoyer par SMS \" CHAT1\" au 210<br>Via le USSD: Tapez *210# et suivez les instructions<br><br>Procédure de désinscription: STOP au 210 Coût : 7F<br>",
-             "Prix": "<br>Le coût de souscription <br>7F par SMS et par code USSD<br>1F/Sec par appel <br>"
+             "Prix": "<br>Le coût de souscription <br>7F par SMS et par code USSD<br>1F/Sec par appel <br>",
+             "img": "/Images/friendchat.jpg"
          },
          {
              "Nom": "Funcell",
@@ -236,11 +291,12 @@
          {
              "Nom": "Gameloft",
              "Description du produit": "<br>Gameloft est un portail de jeux mobile qui vous permet de bénéficier d’un large catalogue de jeux vidéo. Gameloft est accessible où vous voulez, quand vous voulez, si vous disposez d’un smartphone Android, d’une tablette Android et que vous disposez d’une connexion 3G/4G ou Wifi.<br>",
-             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 464.<br>"
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 464.<br>",
+             "img": "/Images/gameloft.jpg"
          },
          {
              "Nom": "Gap / Bonnes pratiques agricoles 201",
-             "Description du produit": "<br>Ce service fournit des conseils sur les bonnes  pratiques agricoles qui impliquent l'adoption et l'application de principes de bonne gestion pour la production de produits agricoles sains et sûrs pour pour la consommation humaine sans affecter l'envireonnement et la santé des travailleurs agricoles. <br>",
+             "Description du produit": "<br>Gap / Bonnes pratiques agricoles <br>Ce service fournit des conseils sur les bonnes  pratiques agricoles qui impliquent l'adoption et l'application de principes de bonne gestion pour la production de produits agricoles sains et sûrs pour pour la consommation humaine sans affecter l'envireonnement et la santé des travailleurs agricoles. <br>",
              "Avantages": "<br>Souscription: <br>25F / JOUR <br>100F / SEMAINE<br>200F / MOIS <br><br>",
              "Procédure de souscription": "<br> Pour désactiver : *201*2*4#<br>"
          },
@@ -251,7 +307,7 @@
              "Prix": "<br>30F/minute<br>"
          },
          {
-             "Nom": "GBICH *326#",
+             "Nom": "GBICH / BLAGUE SMS *326#",
              "Description du produit": "<br>Service dédié aux blagues et à l'humour. Accessible via IVR / USSD.<br>",
              "Procédure de souscription": "<br>Pour souscrire: 326<br>Procédure de désinscription: *326*3#<br>",
              "Prix": "<br>10F/SMS<br>Jour: 25F<br>Semaine : 100F<br>Mois : 400F<br>25F/Consultation<br>"
@@ -297,13 +353,14 @@
              "Description du produit": "<br>Lundi : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F<br><br>Mardi : <br> - 200% de bonus sur la 1ère recharge OM du jour pour 125F, 525F, 1025F, 1050F, 5025F valable 10 jours<br> - 100 % de bonus sur les recharges supérieures ou égales à 10 000F valable 07 jours <br> - Bonus internet de 100% par achat de forfait internet via le 433, Orange & moi et OM<br><br>Mercredi : <br> - 200% de bonus sur les recharges OM de 125F, 525F, 1025F, 1050F, 5025F valable 10 jours <br><br>Jeudi : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F <br><br>Vendredi : <br> - 200% de bonus sur la 1ère recharge OM du jour pour 125F, 525F, 1025F, 1050F, 5025F valable 10 jours<br> - 100 % de bonus sur les recharges supérieures ou égales à 10 000F valable 07 jours <br> - Bonus internet de 100% par achat de forfait internet via le 433, Orange & moi et OM<br><br>Samedi : <br> - 100 % de bonus sur toutes les recharges OM et SAP SAP valable 07 jours <br><br>Dimanche : <br> - 200% de bonus sur les recharges OM de 1025F , 5025F valable 10 jours<br> - 100% de bonus sur les autres recharges via OM valable 07 jours pour les recharges supérieures ou égale à 10 000F et 10 jours pour toute recharge de moins de 10 000F<br>"
          },
          {
-             "Nom": "La flotte ",
+             "Nom": "La flotte CUG",
              "Description du produit": "<br>La flotte ou CUG (Closed User Group) est un service qui offre une communication gratuite à l'intérieur d'un groupe d'utilisateurs ( postpayé ou prépayé) moyennant une redevance mensuelle par ligne <br>Il est destiné aux structures ayant une communication interne important <br><br>Entre 5 - 150 lignes -----› 5 000F/ligne <br>Entre 151 - 500 lignes -----› 4 000F/ligne<br>Plus de 500 lignes -----› 3 500F/ligne<br>",
              "Procédure de souscription": "<br>Condition cible : personnes morales ( Entreprises et organisations à but lucratif) <br>5lignes (numéros) minimum <br>Tarif selon votre catégorie et plan tarifaire poure les appels en dehors de la flotte <br>"
          },
          {
-             "Nom": "Le code coupon fidelité",
-             "Description du produit": "<br>Lorsque le client fait la demande d'échange de points contre un cadeau non-GSM, un code coupon lui est envoyé <br>Il est unique et lié au numéro de téléphone <br>Il est valide pour 2 mois <br>Il peut être annulé à la demane du client <br>Il peut être renvoyé au client en cas de perte <br><br>L'annulation du code coupon est seulement possible si le coupon n'a pas été utilisé contre un article et est toujours valide <br>L'annulation se fait par SMS : SUPP [ espace ] Code coupon au 797 <br>"
+             "Nom": "Le programme de fidélité - Le code coupon fidelité",
+             "Description du produit": "<br>Lorsque le client fait la demande d'échange de points contre un cadeau non-GSM, un code coupon lui est envoyé <br>Il est unique et lié au numéro de téléphone <br>Il est valide pour 2 mois <br>Il peut être annulé à la demane du client <br>Il peut être renvoyé au client en cas de perte <br><br>L'annulation du code coupon est seulement possible si le coupon n'a pas été utilisé contre un article et est toujours valide <br>L'annulation se fait par SMS : SUPP [ espace ] Code coupon au 797 <br>",
+             "img": "/Images/prog_fidelite.jpg"
          },
          {
              "Nom": "Le Double appel ou appel en attente ",
@@ -331,7 +388,9 @@
              "Description du produit": "<br>C’est un Programme conçu par Orange pour récompenser et remercier ses clients pour leur fidélité à travers la consommation. Tout client ayant un numéro actif sur le réseau Orange, est éligible au programme. Chaque utilisation des produits et services d'Orange : appels, SMS, Internet, ou service à valeur ajoutée, vous donneront droit à des points cadeaux. Les points accumulés pourront plus tard être échangés contre différents cadeaux.<br>Les Points Cadeaux sont valides pour 4 trimestres (1 an) à compter du trimestre dans lequel ils ont été octroyés. Il y a donc 4 dates d’expiration des points cadeau dans l’année correspondant à la fin de chaque trimestre : 31 mars - 30 juin - 30 septembre - 31 décembre<br>",
              "Avantages": "<br>Vous pouvez convertir vos points cadeaux en :<br><br>.des minutes d'appels valable vers Orange,<br>.des SMS valable vers Orange,<br>.des forfaits internet<br>.des téléphones et modems<br>.des produits alimentaires auprès de nos partenaires. <br>",
              "Procédure de souscription": "<br>Les différentes commandes (SMS) pour l'accès au programme de fidelité :<br><br>Inscription : Par SMS, envoyer «PF» au 797<br>Consultations des points : envoyer « C » au 797<br>Echanges de points : USSD *797*5# et suivre les instructions  OU  envoyer « rd [code du cadeau] » au 797<br>",
-             "Prix": "<br>Gratuit<br>Tout client ayant un numéro actif sur le réseau Orange, est éligible au programme. En tant que client VIP, vous êtes automatiquement enregistré dans le programme de fidélité.<br>"
+             "Prix": "<br>Gratuit<br>Tout client ayant un numéro actif sur le réseau Orange, est éligible au programme. En tant que client VIP, vous êtes automatiquement enregistré dans le programme de fidélité.<br>",
+             "link": "Le programme de fidélité - Echanger points de fidélité avec produits GSM",
+             "img": "/Images/prog_fidelite.jpg"
          },
          {
              "Nom": "Le renvoi d’appel ",
@@ -356,7 +415,8 @@
              "Nom": "LEARN ENGLISH 397",
              "Description du produit": "<br>L'abonné appelle le 397 pour suivre des cours d'anglais. Accessible via IVR / USSD.<br>",
              "Procédure de souscription": "<br>Pour souscrire: 397<br>Procédure de désinscription: *397*4#<br>",
-             "Prix": "<br>Jour 30F<br>Semaine 100F<br>Mois 300<br>"
+             "Prix": "<br>Jour 30F<br>Semaine 100F<br>Mois 300<br>",
+             "img": "/Images/learn_english.jpg"
          },
          {
              "Nom": "Les messages de promotions Orange",
@@ -364,16 +424,59 @@
          },
          {
              "Nom": "Les téléphones compatibles avec l’eSIM d’Orange",
-             "Description du produit": "<br>Ce sont les téléphones de dernière génération<br> <br>Apple iPhone XR & XS<br>Apple iPhone <br>Apple iPhone XS Max <br>Apple iPhone 11 & 12 & 13 & 14<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro max<br>Apple iPhone SE (2020 & 2022)<br>Apple iPhone 12 & 13 Mini <br>Apple iPhone 14 Plus <br>iPad Pro (2018 and onwards) <br>Apple iPad & iPad Air <br>Apple Watch series 3 & 4 & 5 & 6 & 7& 8<br>iPhone SE (2020)<br>Apple Apple Watch Ultra<br>Apple Watch SE<br>Oppo Find X3 Pro<br>Oppo Reno 5 A & 6 Pro 5G<br>Oppo Find X5 & X5 Pro<br>Oppo A55s 5G<br>Sony Xperia 10 IV & 10 III Lite<br>Sony Xperia 1 IV<br>Sharp Sharp AQUOS sense6s & wish<br> <br> <br>Xiaomi 12T Pro<br>Google Pixel 3 & 3a & 4 & 4a & 5 & 6 & 6Pro & 7 & 7 Pro<br>Huawei P40 & P40 Pro<br>Huawei Mate 40 Pro<br>Huawei Honor Magic 4 Pro<br>Motorola Razr 2019<br>Motorola Razr 5G<br>Samsung Galaxy Fold<br>Samsung Galaxy Z Fold 2 5G<br>Samsung Galaxy Z Flip & Z Flip 2 & Z Flip 2 5G & Z Flip 3 & Z Flip 4 & Z Flip 4 5G<br>Samsung Galaxy S20 <br>Samsung Galaxy S21 & S21+ 5G & S21 Ultra 5G<br>Samsung Galaxy S22 & S22+ & S22 Ultra<br>Samsung Galaxy Note 20 & Note 20 Ultra 5G <br>Samsung Galaxy Z Fold3 5G<br>Nuu Mobile X5<br>Planet Computers Gemini PDA<br>Rakuten Mobile Rakuten Mini & Hand 5G<br>Rakuten Mobile Rakuten BIG & BIG s<br>Rakuten Mobile Rakuten hand<br>HONOR Magic 4 Pro<br> "
+             "Description du produit": "<br>Ce sont les téléphones de dernière génération<br> <br>Apple iPhone XR & XS<br>Apple iPhone <br>Apple iPhone XS Max <br>Apple iPhone 11 & 12 & 13 & 14<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro<br>Apple iPhone (11 & 12 & 13 & 14 ) Pro max<br>Apple iPhone SE (2020 & 2022)<br>Apple iPhone 12 & 13 Mini <br>Apple iPhone 14 Plus <br>iPad Pro (2018 and onwards) <br>Apple iPad & iPad Air <br>Apple Watch series 3 & 4 & 5 & 6 & 7& 8<br>iPhone SE (2020)<br>Apple Apple Watch Ultra<br>Apple Watch SE<br>Oppo Find X3 Pro<br>Oppo Reno 5 A & 6 Pro 5G<br>Oppo Find X5 & X5 Pro<br>Oppo A55s 5G<br>Sony Xperia 10 IV & 10 III Lite<br>Sony Xperia 1 IV<br>Sharp Sharp AQUOS sense6s & wish<br> <br> <br>Xiaomi 12T Pro<br>Google Pixel 3 & 3a & 4 & 4a & 5 & 6 & 6Pro & 7 & 7 Pro<br>Huawei P40 & P40 Pro<br>Huawei Mate 40 Pro<br>Huawei Honor Magic 4 Pro<br>Motorola Razr 2019<br>Motorola Razr 5G<br>Samsung Galaxy Fold<br>Samsung Galaxy Z Fold 2 5G<br>Samsung Galaxy Z Flip & Z Flip 2 & Z Flip 2 5G & Z Flip 3 & Z Flip 4 & Z Flip 4 5G<br>Samsung Galaxy S20 <br>Samsung Galaxy S21 & S21+ 5G & S21 Ultra 5G<br>Samsung Galaxy S22 & S22+ & S22 Ultra<br>Samsung Galaxy Note 20 & Note 20 Ultra 5G <br>Samsung Galaxy Z Fold3 5G<br>Nuu Mobile X5<br>Planet Computers Gemini PDA<br>Rakuten Mobile Rakuten Mini & Hand 5G<br>Rakuten Mobile Rakuten BIG & BIG s<br>Rakuten Mobile Rakuten hand<br>HONOR Magic 4 Pro<br> ",
+             "link": "L'eSIM (embeded SIM ou SIM embarquée)",
+             "img": "/Images/esim.jpg"
          },
          {
-             "Nom": "Les zones de couverture fibre à Bobo Dioulasso",
+            "Nom": "L'eSIM (embeded SIM ou SIM embarquée)",
+            "Description du produit": "L'eSIM est une nouvelle technologie considérée comme une évolution de la carte SIM traditionnelle (physique) vers une SIM virtuelle. La carte SIM est désormais intégrée à la carte mère des smartphones par les constructeurs depuis la conception du smartphone et pour la faire fonctionner il faut se procurer un profil eSIM à télécharger.<br> <br>Elle offre les mêmes services qu’une carte SIM classique : l’eSIM permet en effet, de bénéficier des services du réseau mobile de votre opérateur pour téléphoner, envoyer et recevoir des SMS et vous connecter à Internet.<br> <br>",
+            "Avantages": "<br>1.L'eSIM offre une expérience fluide et simple et minimise le temps nécessaire pour se connecter au réseau, un traitement plus simplifié et un service plus fiable car il est intégré à l'appareil <br> <br>2.Pratique pour le client, l’eSIM réduit la manipulation du téléphone et supprime de facto les difficultés pour retirer la SIM lors d’un changement de téléphone portable et, parfois, l’achat d’accessoires (adaptateur, outil d’éjection de la carte SIM, etc.) pour réaliser cette opération<br> <br>3.Les clients peuvent avoir plusieurs profils sur le même appareil (jusqu'à 10 en même temps) sans avoir à transporter des cartes SIM physiques. Un seul numéro marche à la fois.<br>",
+            "Procédure de souscription": "<br>Les conditions d’acquisition de l’eSIM :<br>Si vous disposez d’un équipement compatible eSIM et que vous souhaitez acquérir une nouvelle offre eSIM prépayée ou que vous souhaitez faire migrer votre offre d’une SIM classique vers la eSIM, vous devez vous rendre dans les boutiques sièges d’Orange à Bobo-Dioulasso ou Ouagadougou.<br><br>Si vous souhaitez changer votre carte SIM actuelle en eSIM, des vérifications d’usage seront effectuées avant d'autoriser le changement.<br>Si vous souhaitez acquérir un nouveau numéro en eSIM , le conseiller procédera à une identification de votre nouveau numéro et vous pourrez avoir votre eSIM",
+            "link": "Les téléphones compatibles avec l’eSIM d’Orange",
+            "img": "/Images/esim.jpg"
+            },
+         {
+             "Nom": "La fibre FTTX - Les zones de couverture à Bobo Dioulasso",
              "Description du produit": "<br>Accartville<br>Bobo 2010<br>Secteur 25<br>Secteur 5<br>Petit Paris<br>Sikasso Sira<br>Yéguéré Koura<br>Zone commerciale / Centre Ville<br>"
          },
          {
-             "Nom": "Les zones de couverture fibre à Ouagadougou",
+             "Nom": "La fibre FTTX - Les zones de couverture à Ouagadougou",
              "Description du produit": "<br>Azimmo Ouaga 2000<br>Cité Socogib Ouaga 2000<br>Zaca<br>Koulouba<br>Samandin<br>Saint Léon<br>Bilbalogho<br>Cité an 3<br>Ouaga 2000 (zone A, B et C)<br>Ouaga 2000 Ext<br>Patte d'oie<br>1200 Logements<br>Somgandé<br>Tanghin<br>Zone du Bois<br>Cité Socogib Zone du Bois<br>Zogona<br>Saaba<br>Nioko1<br>Tampouy<br>Azimmo Tampouy<br>Wayalghin<br>Cité Enaref<br>Dassasgho<br>Kalgondin<br>Dagnoën<br>Karpala<br>Sinyiri<br>ZAD<br>Petit Paris<br>Gounghin<br>Wemtenga<br>Belleville<br>Pissy <br>"
          },
+
+         {
+            "Nom": "La fibre FTTX - Se réabonner",
+            "Description du produit": "<br>Se réabonner à la fibre optique d'orange <br>",
+            "img": "/Images/fibre-reabo.png"            
+        },
+        {
+            "Nom": "La fibre FTTX - Connaitre son numéro de ligne",
+            "Description du produit": "<br>Se réabonner à la fibre optique d'orange <br>",
+            "img": "/Images/fibre-numeroligne.png"
+        },
+
+        {
+            "Nom": "La fibre FTTX - Connaitre la date d'expiration de son abonnement",
+            "Description du produit": "<br>Connaitre la date d'expiration de son abonnement <br>",
+            "img": "/Images/fibre-datefinabo.png"
+        },
+        {
+            "Nom": "La fibre FTTX - Changer le mot de passe de son wifi",
+            "Description du produit": "<br>Changer le mot de passe de son wifi <br>",
+            "img": "/Images/fibre-changermdpwifi.png"
+        },
+        {
+            "Nom": "La fibre FTTX - Faire un test du débit de sa connexion",
+            "Description du produit": "<br>Faire un test du débit de sa connexion <br>",
+            "img": "/Images/fibre-test.png"
+        },
+        {
+            "Nom": "La fibre FTTX - Test d'éligibilité sur la couverture de la fibre",
+            "Description du produit": "<br>Comment savoir si ma zone est couverte par la fibre <br>",
+            "img": "/Images/fibre-testeligibilité.png"
+        },
+
          {
              "Nom": "LibreInfo.net 540",
              "Description du produit": "<br>Un service qui permet aux clients qui y souscrivent de recevoir des alertes sur l'actualité via le média en ligne LibreInfo.netAccessible via USSD.<br>",
@@ -420,21 +523,23 @@
              "Nom": "Mousso 707",
              "Description du produit": "<br>Mousso est un service à valeur ajoutée qui permet de calculer la date d’ovulation selon son cycle. Le but de ce service est d’aider les jeunes filles qui ont des difficultés à faire le calcul elles mêmes. Ce service a bout but de contribuer à la lutte contre les grossesses indésirées et les avortements principales chez la jeune fille et d’une part d’aider la femme à mieux planifier sa maternité. Accessible via IVR.<br>",
              "Procédure de souscription": "<br>Pour souscrire: 707<br><br>Procédure de désinscription: *707*8#<br>",
-             "Prix": "<br>Jour: 30F<br>Semaine: 150F<br>Mois: 500F<br>"
+             "Prix": "<br>Jour: 30F<br>Semaine: 150F<br>Mois: 500F<br>",
+             "img": "/Images/mousso.jpg"
          },
          {
              "Nom": "Numéro du service client",
              "Description du produit": "<br>Appeler le 121 (payant 25F)<br>Appeler le 127 (orange money)(25f)<br>Appeler le 5555 (client premium)<br>Appeler le 450 (téléphone fixe)<br>Appeler le 110 (Orange Business)<br>Appeler le 113 (Sim Sap sap)<br>Appeler le 119 (Orange énergie) 25f<br>Appeler le 333 (Orange fibre) 25F<br>",
-             "Avantages": "<br>Contact Service Client via les réseaux sociaux<br>Whatsapp via le 07000121/Fibre:06003333<br>https://www.facebook.com/OrangeBurkina<br>https://twitter.com/orangeburkina<br>https://instagram.com/orangeburkina<br>"
+             "Avantages": "<br>Contact Service Client via les réseaux sociaux<br>Whatsapp via le 07000121/Fibre:06003333<br>https://www.facebook.com/OrangeBurkina<br>https://twitter.com/orangeburkina<br>https://instagram.com/orangeburkina<br>",
+             "img": "/Images/assistance_bf.png"
          },
          {
-             "Nom": "OFC (live match  ou unkwon ou Crédit goal)",
+             "Nom": "OFC (live match  ou unknow ou Crédit goal)",
              "Description du produit": "<br>Service dédié au Football permettant aux abonnés de recevoir des alerts de match en direct, consulter l'actualité des équipes, effectuer des pronostics…). Accessible via USSD.",
              "Procédure de souscription": "<br>Pour souscrire: 530<br><br>Procédure de désinscription: STOP au 530 facturé à 21F<br>",
              "Prix": "<br>Match en direct: 25F/Jour<br>Crédit Goal: 100F/souscription<br>Score gagnant: 100F/Souscription<br>"
          },
          {
-             "Nom": "Offre Choco ",
+             "Nom": "Offre Choco",
              "Description du produit": "<br>Tarif intra choco -----› Appel : 1,100F -----› Intervalle : 1s<br>Choco Vers Orange Non choco en heures creuses -----› Appel : 1,1FCFA -----› Intervalle : 1s<br>Choco Vers Off-net en heures creuses -----› Appel: 1,100FCFA -----› Intervalle : 1s<br>SMS intra Choco\t-----›\t5,25FCFA<br>Choco Vers Off-net en heures pleines -----› Appel: 2,1FCFA -----› Intervalle : 1s <br>Choco Vers Orange non choco en heures pleines -----› Appel : 1,9 FCFA -----› Intervalle : 1s <br><br>Tarif special chocco  -----›10Min vers tous les reseaux nationaux+20sms+150Mo valable 3jr  -----› 525FCFA <br>"
          },
          {
@@ -442,7 +547,9 @@
              "Description du produit": "<br>Orange Choco est une proposition distinctive qui offre des  possibilités d’expression dédiées aux jeunes. <br>",
              "Avantages": "<br>Les  caractéristiques sont: <br>1. Prixpréférentiels intracommunautaire pour la voix et les SMS, <br>2. Accessibilité aux réseaux sociaux, les données et les tonalités. <br>3. Pack SMS: Envoyer un SMS facturé pour obtenir 25 SMS gratuits utilisable vers Orange valide jusqu’à00h;<br>4. Bénéficie de 10 min à 100f via le 106<br>",
              "Procédure de souscription": "<br>L'inscription à Orange Choco est active après avoir tapé *109# puis OK ou en envoyant IN par SMS au 109.<br><br>",
-             "Prix": "<br>La première souscription à Orange choco est gratuite et un bonus de 500Mo est offert valable le même jour jusqu'a 23h.<br>Pour une seconde souscription le coût est de 105 FCFA et sans bonus.<br>Pour quitter le plan Orange Choco, il faut taper le *109*4# ou en envoyant par SMS STOP au 109.<br>Le fait de quitter le plan Orange Choco, entraine un basculement vers le plan tarifaire classique.<br>"
+             "Prix": "<br>La première souscription à Orange choco est gratuite et un bonus de 500Mo est offert valable le même jour jusqu'a 23h.<br>Pour une seconde souscription le coût est de 105 FCFA et sans bonus.<br>Pour quitter le plan Orange Choco, il faut taper le *109*4# ou en envoyant par SMS STOP au 109.<br>Le fait de quitter le plan Orange Choco, entraine un basculement vers le plan tarifaire classique.<br>",
+             "img": "/Images/choco.jpg",
+             "link": "Offre Choco"
          },
          {
              "Nom": "Orange Entrepreneur ",
@@ -464,7 +571,8 @@
          {
              "Nom": "Parent 2.0",
              "Description du produit": "<br><br>Parent 2.0 est un nouveau service à la disposition de nos abonnés permettant de recevoir de  bonnes astuces et conseils pour l’éducation de vos enfants<br>",
-             "Procédure de souscription": "<br>Il faut composer *104# et choisir selon votre convenance une des formules ci-dessous :<br>\tLa consultation facturée à 30 FCFA ;  <br>\tUn abonnement journalier facturé à 30 FCFA ;  <br>\tUn abonnement hebdomadaire facturé à 150 FCFA ;<br>\tUn abonnement mensuel facturé à 500 FCFA.  <br><br>Désactivation : *104*3#<br>"
+             "Procédure de souscription": "<br>Il faut composer *104# et choisir selon votre convenance une des formules ci-dessous :<br>\tLa consultation facturée à 30 FCFA ;  <br>\tUn abonnement journalier facturé à 30 FCFA ;  <br>\tUn abonnement hebdomadaire facturé à 150 FCFA ;<br>\tUn abonnement mensuel facturé à 500 FCFA.  <br><br>Désactivation : *104*3#<br>",
+             "img": "/Images/parent2.0.png"
          },
          {
              "Nom": "Pass internationaux",
@@ -495,7 +603,8 @@
          {
              "Nom": "Playweez",
              "Description du produit": "<br>Playweez vous permet de profiter d'un large catalogue de jeux en ligne. Le service est accessible pour tous types de smartphones et est également disponible sur ordinateur<br>",
-             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>"
+             "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454.<br>",
+             "img": "/Images/playweez.jpg"
          },
          {
              "Nom": "Please call me 444",
@@ -507,7 +616,8 @@
              "Nom": "Profil Etalon MEGAS",
              "Description du produit": "<br>Le profil Etalon est un profil qui offre une quantité généreuse de données pour naviguer sur Internet, regarder des vidéos, utiliser les réseaux sociaux et bien plus encore, adaptée à différents niveaux de consommation. <br><br>Pour reconnaitre si le client est inscrit il faudrait aller dans ECMS  -----› Offers  -----› Data Club<br><br>NB: Le profil Etalon ne donne pas droit aux bonus sur les recharges et sur les forfaits internet du mardi et du vendredi. Une fois sur le profil, tu n’as pas droit aux forfaits Oflex, bonus data les mardis et vendredis et bonus recharge. En plus de ces offres, le souscripteur bénéficie d'un Bonus internet de 100% le jour de ton anniversaire. Le service classe(Rate Plan) du client ne change pas.<br><br>Les forfaits sont gelés une fois la date d’expiration est atteint et l’abonné à droit à 10 jours((1Go, 2Go) et 30 jours(8Go, 20Go)  une fois prolonger le forfait est reconduit en plus du forfait restant. ",
              "Avantages": "<br>",
-             "Procédure de souscription": "<br>La souscription donne un accès permanent à ces offres internet généreuses:<br><br> \t*105*700# pour 1Go à 700F (07 jours)<br> \t*105*1050# pour 2Go à 1050F (14 jours)<br> \t*105*4200# pour 8Go à 4200F (30 jours)<br> \t*105*10000# pour 20Go à 10000F (30 jours)<br>\t* DA concerné : 1201<br><br><br>Souscription gratuite au profil Etalon en composant: *105#<br>Désactivation : *105*2#. (Coût: 500F)"
+             "Procédure de souscription": "<br>La souscription donne un accès permanent à ces offres internet généreuses:<br><br> \t*105*700# pour 1Go à 700F (07 jours)<br> \t*105*1050# pour 2Go à 1050F (14 jours)<br> \t*105*4200# pour 8Go à 4200F (30 jours)<br> \t*105*10000# pour 20Go à 10000F (30 jours)<br>\t* DA concerné : 1201<br><br><br>Souscription gratuite au profil Etalon en composant: *105#<br>Désactivation : *105*2#. (Coût: 500F)",
+             "img": "/Images/PROFIL_ETALON.jpg"
          },
          {
              "Nom": "Profil SIM 3G/4G",
@@ -559,7 +669,8 @@
              "Nom": "SALAM (Islamic Service) 399",
              "Description du produit": "<br>Ce service permet aux abonnés musulmans d'écouter les prêches et les versets du Coran.<br>",
              "Procédure de souscription": "<br>Pour Souscrire: Appel au 399 ou *399# <br>Procédure de désinscription: Appel au 399 ou *399# puis 4 <br>",
-             "Prix": "<br>Appel: 11F/min <br>32f/ jour <br>105f/ semaine <br>310f/ mois <br>"
+             "Prix": "<br>Appel: 11F/min <br>32f/ jour <br>105f/ semaine <br>310f/ mois <br>",
+             "img": "/Images/salam.jpg"
          },
          {
              "Nom": "SANTE et NUTRITION 304",
@@ -587,7 +698,7 @@
              "Nom": "Shalom",
              "Description du produit": "<br>Le service Shalom permet aux abonnés d'écouter des prières, des chansons religieuses, des loaunges et d'écouter la Bible en appelant le 395. Accessible via USSD.<br>",
              "Procédure de souscription": "<br>Pour souscrire: *395# appel au 395<br>Procédure de désinscription: *395# puis 4<br>",
-             "Prix": "<br>Jour: 30F          <br>Semaine: 100F<br>Mois: 300F<br>"
+             "Prix": "<br>Jour: 30F <br>Semaine: 100F<br>Mois: 300F<br>"
          },
          {
              "Nom": "SIDWAYA 334",
@@ -596,7 +707,7 @@
              "Prix": "<br>Consultation: 28F<br>28/ jour <br>105/ semaine<br>425/ mois<br>"
          },
          {
-             "Nom": "SIM AGENT Orange Money Conditions ",
+             "Nom": "Orange Money - SIM AGENT",
              "Description du produit": "<br>Pour avoir une sim agent OM<br><br>Le client se rends dans une de nos agence pour avoir sa sim agent <br>Les conditions: <br><br>1. Un montant de 1 million ( OUAGA et BOBO) et 500.000 (pour les autres localités) qui sera déposé sur son compte OM<br>2. Photocopie simple de CNIB ou document d'identité<br>3. Une facture ONEA ou SONABEL <br>4. Le RCCM <br>5. IFU - Identifiant Fiscal Unique <br>6. Casier judiciaire datant de moins de 03 mois <br>",
              "Avantages": "<br>",
              "Prix": "<br>Somme d'1 million ( OUAGA et BOBO) et 500.000 (pour les autres localités)"
@@ -609,7 +720,8 @@
              "Nom": "SMS Concours",
              "Description du produit": "<br>Permet de s'exercer via des QCM, pour la préparation des concours de la fonction publique. Accessible via SMS / USSD.<br>",
              "Procédure de souscription": "<br>Pour souscrire: *424#<br>Procédure de désinscription: STOP par SMS au 424<br>",
-             "Prix": "<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>"
+             "Prix": "<br>Jour: 25F          <br>Semaine: 100F        <br>Mois: 400F<br>",
+             "img": "/Images/sms_concours.jpg"
          },
          {
              "Nom": "SONABEL Recharger compteur ",
@@ -626,7 +738,8 @@
              "Description du produit": "<br>Ce service vous permet de prendre un crédit qui sera déduit de votre prochaine recharge.<br>Le Crédit octroyé est fonction de la consommation des 3 derniers mois.<br>",
              "Avantages": "<br>Empruntez un crédit de communication de 90F, 180F, 450F ou 900F si vous remplissez les conditions ci-dessous :<br><br>Etre abonné au réseau depuis au moins 6 mois<br>Avoir un solde inférieur à 10 F<br>Le crédit emprunté est balayé au remboursement dès la recharge<br>",
              "Procédure de souscription": "<br>Composer le *800# pour souscrire <br>Pour consulter son solde SOS le client compose: *160*6# <br>",
-             "Prix": "<br>Montant du prêt \tCrédit à rembourser<br>90 F\t\t100 F<br>180 F\t\t200 F<br>450 F\t\t500 F<br>900 F\t\t1000 F<br>"
+             "Prix": "<br>Montant du prêt \tCrédit à rembourser<br>90 F\t\t100 F<br>180 F\t\t200 F<br>450 F\t\t500 F<br>900 F\t\t1000 F<br>",
+             "img": "/Images/sos_credit.jpg"
          },
          {
              "Nom": "SOS MEGA ",
@@ -651,10 +764,11 @@
          },
          {
              "Nom": "Tarifs et syntaxe Numéro Magique",
-             "Description du produit": "<br>Appel illimité vers un numero et vice-versa pendant une journée -----› 315FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*1#<br>Appel illimité vers un numero et vice-versa pendant 7 jours -----› 1575FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*7#<br>Appel illimité vers un numero et vice-versa pendant un mois -----› 5250FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*30#<br>"
+             "Description du produit": "<br>Appel illimité vers un numero et vice-versa pendant une journée -----› 315FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*1#<br>Appel illimité vers un numero et vice-versa pendant 7 jours -----› 1575FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*7#<br>Appel illimité vers un numero et vice-versa pendant un mois -----› 5250FCFA -----› Syntaxe directe pour souscrire :  *125*numéro*30#<br>",
+             "img": "/Images/numéro_magigue.png"
          },
          {
-             "Nom": "VAS DESACTIVATION 2023",
+             "Nom": "VAS DESACTIVATION",
              "Description du produit": "<br>Allo Muzik -----›  3505 -----›  Envoyer STOP  au 3505<br><br>Mobile Classified -----›  *500# -----›  Déconnexion par USSD *500*0#<br><br>Orange Football -----›  *526# -----›  Déconnexion par USSD *526*3#<br><br>STK -----›  *456# -----›  Déconnexion par USSD<br><br>Sidwaya Mobile -----›  *334# -----›  Déconnexion par USSD *334*2#<br><br>Burkina 24 -----›  *337# -----› Déconnexion par USSD<br><br>Service Islamique -----›  *399# -----›  Déconnexion par USSD *399*4#<br><br>Friendz Chat -----›  *210# -----› Envoyer STOP  au 210<br><br>Concours sms -----›  *424# -----› Envoyer STOP  au 424<br><br>BANGRE SMS -----›  *424# -----› Envoyer STOP  au 424<br><br>QUIZ FOOT -----›  311 -----› Envoyer STOP  au 311<br><br>MAGIQUE VOICE  -----›  *145# -----› Déconnexion par USSD *145*4# <br><br>CELEBRITES -----›  *314# -----› Déconnection par SMS en envoyant STOP SOUKEJOUR au 314<br><br>Youscribe -----›  452 -----› STOP  au 454<br><br>Weezchat -----› 352 -----›  STOP au 454 <br><br>Bible -----›  *395# -----› Déconnexion par USSD *395*4#<br><br>service mousso -----›  707 -----›  STOP ou  *707*8#<br><br>English club -----›  300 -----› Envoyer STOP  au 300<br><br>Iska -----›  *201# -----› Déconnexion par USSD *201*1*4#<br><br>Gap -----› *201# -----› Déconnexion par USSD *201*2*4#<br><br>FUNCELL -----›  454 -----› FUNCELL.MOBI/ (Résiliation)ou STOP au 454<br><br>OFC (live match  ou unkwon ou Crédit goal) -----›  *530# -----›  Envoyer STOP au 530<br><br>Learn English -----›  397 -----›  Déconnexion par USSD *397*4#<br><br>LibreInfo.Net -----›  *540# -----› Déconnexion par USSD *540*3#<br><br>COACHINGSMS -----›  *248# -----›  Déconnexion par USSD *248*3#<br><br>GBICHSMS -----›  *326# -----› Déconnexion par USSD *326*3#<br><br>GAMELOFT -----›  464 -----›  Envoyer STOP au 464<br><br>CLICNSCORE -----› 452 -----› Envoyer STOP au 454<br><br>DIGSTER -----›  452 -----› Envoyer STOP au 454<br><br>PLAYCINE -----› 452 -----› Envoyer STOP  au 454<br><br>PLAYWEEZ -----› 452 -----› Envoyer STOP au 454<br><br>MOLOTOV(veedz tv)-----› 452 -----› Envoyer STOP au 454<br><br>ZIKPLAY -----› 452 -----› Envoyer STOP ZIK au 452 <br><br>MOBVISION -----› 383 -----› Envoyer MV STOP au 383 <br><br>VIDDIGO -----› 454 -----› Envoyer STOP au 454<br><br>QUIZ HAPPY WIN -----› 212 -----› Envoyer STOP au 212<br><br>STREAMING ILLIMITE -----›  452  -----›  Envoyer STOP SI au 452<br><br>ORANGE JEUX (Ogaming) -----›  452 -----› Envoyer STOP OJ au 452<br><br>E-FITNESS 452 Lien  http://etopfitness.com/ <br><br>SPORT 24/7(Mobile cashout) -----› 452 -----›  Envoyer STOP au 454<br><br>Digital connect / SAP SAP JOB -----› *3531# -----› Déconnexion par USSD *3531*1*5#<br>Digital connect / IMMO REUSSITE -----› *3531# -----› Déconnexion par USSD *3531*2*5#<br>Digital connect / HYPODROME -----›  *3531# -----›  Déconnexion par USSD *3531*3*5#<br>Digital connect / Immigr Canada- USA -----›  *3531# -----›  Déconnexion par USSD *3531*4*5#<br>Digital connect / International Market  -----›  *3531# -----›  Déconnexion par USSD *3531*5*5#<br>Digital connect / Franglais  -----›  *3531# -----›  Déconnexion par USSD *3531*6*5#<br><br>ALERTE BOURSE ETUDE(Dayala compagnie) -----›  *3509# -----› Déconnexion par USSD *3509*0#<br><br>SANTE et NUTRITION -----›  *304# -----›  Envoyer STOP au 304  ou  *304*0#<br><br>DIET SMS -----›  *3074# -----›  Envoyer STOP au 3074 OU *3074*0#<br><br>ACTUALITE HYPPIQUE -----›  *3303# Envoyer STOP au 3074 OU *3303*0#<br><br>ORANGE INFO  -----›  *456# -----› Déconnexion par USSD *456*4#<br><br>BLAGUE SMS  *326*3# Déconnexion par USSD *326*3#<br><br>"
          },
          {
@@ -679,13 +793,15 @@
              "Nom": "Youscribe",
              "Description du produit": "<br>Télécharger l’application YouScribe pour lire en streaming depuis votre smartphone, tablette ou ordinateur des milliers d’ouvrages numériques: romans contemporains et grands classiques de littérature, ouvrages professionnels et conseils pratiques, guides de voyages pour toutes vos destinations, livres de cuisine… Il y en a pour tous les âges et tous les goûts!<br>",
              "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP au 454<br>",
-             "Prix": "<br>Pass jour: <br>126 FCFA<br>"
+             "Prix": "<br>Pass jour: <br>126 FCFA<br>",
+             "img": "/Images/youscribe.jpg"
          },
          {
              "Nom": "Zikplay",
              "Description du produit": "<br>Avec Zikplay écoutez et téléchargez des centaines de musique sur PC, Smartphone ou bien tablette. Une multitude de genres musicaux et d’artistes locaux et internationaux.<br>",
              "Procédure de souscription": "<br>Pour se désabonner, envoyer STOP ZIK au 452<br>",
-             "Prix": "<br>Pass Semaine: <br>420 FCFA<br>"
+             "Prix": "<br>Pass Semaine: <br>420 FCFA<br>",
+             "img": "/Images/zikplay.jpg"
          },
          {
              "Nom": "ORANGE ARENA",
@@ -697,6 +813,168 @@
             "Description du produit":"Accéder à son casier judiciaire sans se déplacer",
             "Procédure de souscription": "<br>Etape 1: <br>Rendez-vous sur le site www.ecasier-judiciaire.gov.bf <br> <br> Etape 2:<br>Cliquer sur Faire sa demande et entrer les informations demandées <br> <br> Etape 3: <br>Télécharger les documents demandées ( CNIB et Extrait de naissance) <br> <br> Etape 4:<br> Relire le récapitulatif des informations fournies et valider la demande <br> <br> Etape 5: <br> Cliquez sur Effectuer le paiement et choisir l’icone Orange Money qui s’affiche <br> <br>Etape 6:<br>Composez la Syntaxe *144*4*6*750 # pour générer le Code OTP <br> <br>Etape 7: <br>Insérer le code OTP dans la barre qui s’affiche et valider le paiement && Télécharger votre récépissé de demande<br> <br>",
             "img": "/Images/ecasier.jpg"
-        }
+        },
+        {
+            "Nom": "La carte VISA Orange money",
+            "Description du produit": "<br>La carte VISA Orange money donne la possibilité aux clients Orange Money d’effectuer les achats en ligne, régler ses factures à partir des terminaux des paiements électroniques, effectuer des retraits aux distributeurs des banques affiliées à VISA.<br> <br>Une même personne ne peut pas acheté 02 cartes. L'âge requis pour détenir la carte VISA Orange Money est de 20 ans. Aussi, convient-il de préciser que si vous êtes déjà détenteur d'une carte Africard vous ne pouvez souscrire pour la carte VISA à condition de demander la désactivation de votre carte UBA <br>",
+            "Avantages": "<br>1.Pas besoin d'un compte bancaire pour avoir la carte<br>2. Disponibilité de la carte/Cash 24H/24 et 7J/7 <br>3.Traçabilité des transactions via SMS/Internet <br>4.Sécurité physique et financière garantie <br>5.Disponibilité immédiate de votre argent après chargement <br>6.Facilité d’utilisation <br>",
+            "Procédure de souscription": "Pour profiter de la carte VISA Orange money rendez-vous dans l'une de nos boutiques ci-dessous<br> <br>Liste des boutiques qui vendent les carte visa Orange à OUAGADOUGOU:<br> <br>BOUTIQUE DU SIEGE ORANGE <br>AGENCE ORANGE TANGHIN <br> AGENCE ORANGE DASSASGHO <br> AGENCE ORANGE KOURITENGA <br> AGENCE ORANGE CISSIN <br> AGENCE ORANGE NAGRIN <br> AGENCE ORANGE KARPALA <br> AGENCE ORANGE SAABA <br> AGENCE ORANGE 1 200 LOGEMENTS <br> AGENCE ORANGE DAPOYA",
+            "Prix": "<br>10 000 FCFA<br>",
+            "img": "/Images/carte_visa.png"
+        },
+        {
+            "Nom": "La carte VISA Orange money - Frais d'utilisation",
+            "Prix":"<br>Achat Carte Prépayée OMBF -----› 10 000 FCFA <br>Chargement de la carte -----› Minimum 1400 FCFA ou 1,4% au-delà de 100 000 FCFA <br> Retrait GAB  UBA BUKINA -----› Gratuit <br> Achat TPE Burkina -----› Gratuit <br> Retrait  GAB  GIM UEMOA Burkina -----› 500 FCFA <br> Retrait  GAB  GIM UEMOA Hors Burkina -----› 500 FCFA <br> Retrait  GAB VISA  ou Cash Advance -----› Minimum 3500 FCFA ou 2,5% du Montant <br> Achat Internet et TPE hors Burkina -----› Minimum 500 FCFA ou 1,5% du Montant <br> Réinitialisation Code pin, Passcode -----› 1000 FCFA <br> Requêtes non valides -----› 250 FCFA <br> Frais de gestion mensuel de la carte -----› 500 FCFA <br>",
+            "img": "/Images/carte_visa.png",
+            "link": "La carte VISA Orange money"
+            },
+
+            {
+                "Nom": "Ya affairé - Les exclusions ou incompatibilités",
+                "Description du produit": "Y’a Affairé  est une offre prépayée  destinée aux petites entreprises qui permet de : <br> Créer sa flotte mobile <br> Appeler en illimité les membres <br> Bénéficier de 100% de bonus <br> Les abonnés bénéficiant de l’offre Ya affairé (SoHo Bundle) sont sur un tarif spécial et par conséquent, ne devraient pas : <br>1.Pouvoir transférer le bonus voix ou data <br>2.Pouvoir souscrire aux services :  Numéro Magique, Friend &Family , Choco <br>3.Pouvoir appartenir à 2 flotte Ya affairé. Un numéro ne peut être que dans une seule flotte Ya affairé à la fois. <br>NB : Le client qui est déjà dans une Flotte ou CUG entreprise : pourra être basculer dans Ya affairé et profiter des avantages et en même temps jouir de ses avantage CUG Entreprise."
+                },
+                
+                {
+                "Nom": "Ya affairé - Suivi Conso, Consultation liste des membres",
+                "Description du produit": "<br>Suivi de la consommation à partir de *160*5#<br>Consultation des numéros membres à partir du menu *255#<br>Notification automatique du membre après ajout à la flotte<br>Rubrique d’information sur les avantages Ya affairé dans le menu *255#<br>"
+                },
+                {
+                    "Nom": "La e-carte Orange",
+                    "Description du produit": "<br>La e-carte d’Orange vous permet d’effectuer vos achats en ligne sur Amazone ,Playstation, Netflix... sans carte bancaire physique grâce à Orange Money.",
+                    "Procédure de souscription": "<br>Comment ça marche ?<br>1.Sélectionnez les cartes que vous voulez acheter <br>2.Inscrivez-vous et réglez avec Orange Money <br>3.Rendez-vous sur le site officiel du service choisi et saisissez-y le code fourni à la fin de votre achat <br>",
+                    "Prix":"<br> 1. La e-Carte Netflix (compte Netflix en US Dolaars uniquement): à partir de 15$ (14 350 CFA) à 30$ (26 150 CFA)<br>2. La e-Cartes Playstation à partir de 50€ (39 600 CFA) <br>2. La e-Carte Amazon à partir de 10€ (9 150 CFA)",
+                    "img": "/Images/e-carte.jpg"
+                    },
+                    
+                    {
+                    "Nom": "La e-carte Orange - Questions Fréquentes des clients",
+                    "Description du produit": "La e-carte d’Orange vous permet d’effectuer vos achats en ligne sur Amazon ,Playstation, Netflix... sans carte bancaire physique grâce à Orange Money.<br> <br>",
+                    "Procédure de souscription": "<br>Comment recevoir le code de la carte que j’ai commandée ? <br>Une fois votre commande validée, vous recevrez votre code :<br><br>•par SMS au numéro de téléphone indiqué dans le formulaire de commande <br> <br>•par email à l’adresse email indiquée dans le formulaire de commande <br> <br>Vous pouvez également retrouver votre code sur votre compte, dans votre historique de commandes <br> <br> Comment utiliser mon code Netflix ?<br> <br>•Rendez-vous sur l’application mobile Netflix ou sur Netflix.com et connectez-vous à votre compte Netflix <br> <br>•Rendez-vous ensuite sur https://www.netflix.com/fr/redeem et rentrez le code unique dans l’espace prévu <br> <br>•Votre compte Netflix est alors crédité du montant de la e-Carte <br> <br> Puis-je utiliser une carte Netflix en Euros sur mon compte en US dollars ? <br> Non, un compte Netflix en US dollars ne peut être crédité que par une carte en US dollars. De même, un compte Netflix en Euros ne peut être crédité que par une carte en Euros.<br>",
+                    "img": "/Images/ecarte1.jpg"
+                    },
+                    {
+                        "Nom": "Contacter Orange depuis l'étranger",
+                        "Description du produit": " Pour contacter le service clientèle depuis l’étranger, vous pouvez composer le +22676020121, 24h/24 et 7jours/7. L’appel est facturé au tarif international selon le pays visité"
+                        },
+                    
+                        {
+                            "Nom": "e-Timbres - Les timbres électroniques",
+                            "Description du produit":"Le timbre numérique est un timbre acquérable en ligne à l'aide d’un téléphone ou d’un ordinateur. Il se présente sous la forme d’un fichier pdf ou d’un code à 12 chiffres que vous recevez.",
+                            "Procédure de souscription": "<br>Pour acheter un timbre, j’effectue les étapes suivantes : <br>Première étape : Vous devez disposer d’un terminal (ordinateur, téléphone, tablette ) et d’une connexion internet <br>Deuxième étape : Ouvrez votre navigateur web (Google Chrome, Safari, Opéra mini, Firefox ,etc.) et taper l’adresse suivante dans la barre d’adresse : www.etimbre.dgi.bf <br>Troisième étape : Achat du timbre <br>A partir de la page d'accueil, cliquer sur le menu TIMBRE. <br>•Sélectionner le type de timbre ainsi que la quantité souhaitée <br>oPour un achat total inférieur ou égal à 5.000 FCFA, vous pouvez effectuer votre achat anonymement c’est à dire sans avoir besoin de compte <br> Pour un achat total supérieur à 5.000 FCFA, vous devrez vous connecter à votre compte ou alors en créer si vous n’en disposez pas.<br>•Choisissez la méthode de paiement et suivez la procédure•Recevez vos timbres (par téléchargement direct sur la plateforme ou en les recevant par mail si vous avez un compte).<br> <br>Une fois le timbre acheté en ligne sur la plateforme www.etimbre.dgi.bf, l’usager doit se munir du eTimbre (sur téléphone, sur papier imprimé ou recopié) et se rendre dans la structure publique ou privée où il a besoin du service (par exemple commissariat pour les légalisations, Guichet unique du foncier pour les documents fonciers, etc.) qui nécessite le etimbre. <br>Sur place, un agent procédera d'abord à la vérification, au choix de l'usage du eTIMBRE et à l’oblitération du eTimbre. Ensuite il procédera à la saisie des références du eTimbre sur le document suivi de sa signature ou de sa validation.<br>",
+                            "img": "/Images/e-timbre.jpg"
+                            },
+                             
+                            {
+                            "Nom": "e-Timbres - Les formalités d’enregistrement",
+                            "Description du produit":"Le timbre numérique est un timbre acquérable en ligne à l'aide d’un téléphone ou d’un ordinateur. Il se présente sous la forme d’un fichier pdf ou d’un code à 12 chiffres que vous recevez.",
+                            "Procédure de souscription": "<br>Pour les usagers souhaitant utiliser le eTIMBRE pour des formalités d’enregistrement (marchés, décisions, etc.), veuillez choisir l'option droit de timbre puis renseignez le montant total de timbre a payer ainsi que les références de la formalité que vous effectuez (marchés, décisions, etc.).<br>",
+                            "img": "/Images/e-timbre.jpg"
+                            },
+                            
+                            {
+                            "Nom": "e-Timbres - Questions Fréquentes des clients",
+                            "Procédure de souscription": "<br>Comment je reçois ma quittance de paiement de mon timbre ?<br>Après achat de mon timbre, je reçois directement ma quittance de paiement à partir de mon navigateur, soit par mail ou par sms.<br> <br>Quels sont les avantages d’avoir un compte sur la plateforme ?<br>Si je dispose d’un compte sur la plateforme, je bénéficie des avantages suivants :<br>•Je peux procéder à l’achat sans restriction de toute quotité de timbre ;<br>•Je dispose d’un historique complet de tous mes timbres et de mes quittances ; <br><br>Quels sont les différents modes de paiements des timbres ? <br>J’ai la possibilité de payer mon timbre en utilisant le moyen de paiement Orange Money ou le moyen de paiement Ligdicash <br><br>Comment me connecter sur la plateforme ?<br> Pour me connecter à la plateforme, je me rends à l’adresse www.etimbre.dgi.bf via mon téléphone ou mon ordinateur, puis je clique sur le bouton CONNEXION et je renseigne mes identifiants de connexion. Si je dispose pas d’un compte, je clique sur le bouton CRÉER UN NOUVEAU COMPTE.<br> <br>Comment je verifie la validite de mon timbre ?<br>Pour vérifier la validité de mon timbre, je me rends à l’adresse www.etimbre.dgi.bf via mon téléphone ou mon ordinateur et je clique sur le bouton VÉRIFICATION.  Ensuite je choisis la méthode de vérification que je souhaite (manuelle ou automatique par QR Code) et je lance la vérification. Un message m’informe de la validité ou non de mon timbre.<br> <br>Comment créer un compte sur la plateforme ? <br> Première étape : Vous devez disposer d’un terminal (ordinateur, téléphone, tablette) et d’une connexion internet <br> Deuxième étape : Ouvrez votre navigateur web (Google Chrome, Safari, Opéra mini, Firefox ,etc.) et taper l’adresse suivante dans la barre d’adresse : www.etimbre.dgi.bf <br> Troisième étape : rendez-vous sur le menu connexion et ensuite cliquer sur le bouton créer mon compte <br> Quatrième étape : Je renseigne le formulaire d’inscription puis je clique sur créer mon compte <br> Cinquième étape : Je reçois dans ma boîte mail, un lien de confirmation de création de mon compte sur lequel je clique pour finaliser mon inscription. <br> <br> Qu'est-ce qu'un achat anonyme ?<br> Un achat anonyme est un achat effectué sans renseignement des informations sur l'acheteur. Ce type d'achat peut être fait unique pour une montant total inférieur ou égal à 5 000 FCFA. <br> Pour un achat supérieur à ce montant, vous devriez vous connecter à votre compte ou en créer si vous n'en disposez pas pour l'instant.<br> <br> J’ai perdu mon mot de passe, comment le récupérer ? <br> En cas de perte de mon mot de passe, je me rends à l’adresse www.etimbre.dgi.bf via mon téléphone ou mon ordinateur, puis je clique sur le bouton CONNEXION, ensuite sur le bouton MOT DE PASSE OUBLIE ? Je renseigne les informations qui me sont demandées et ensuite je clique sur le bouton VALIDER. <br> <br> Quels sont les sites pilotes du e-timbre?<br>SITES PILOTES du Ministère de l'Economie, des Finances et de la Prospective (MEFP)<br>•Le Secrétariat Général (SG) <br>•La Direction des Ressources Humaines (DRH) <br>•La Direction Générale des Impôts (DGI)<br>",
+                            "img": "/Images/e-timbre.jpg"
+                            },
+                            {
+                                "Nom": "La liste des shops et géolocalisation",
+                                "Avantages": "<br>Voici la liste des shops <br>",
+                                "Tableau": [
+                                            ["Nom du Shop", "Localité", "Localisation"],
+                                            ["SHOP FRANCHISE KOSSODO", "Kossodo", " Route de kossodo à 100 m de la station total à droite / 50m avant le marché de Nioko 2."],
+                                            [" SHOP FRANCHISE ZAABRE DAAGA", "Zabre daaga", "Zaabr daaga/ Ouaga sur le même alignement que l'agence Allianz"],
+                                            ["SHOP FRANCHISE DAPOYA", "Dapoya", "Sur l'avenue 56 , colé à alliance 3 non loin de la pharmacie dapoya et de la caisse populaire de dapoya. "],
+                                               ["SHOP FRANCHISE SAABA", "Saaba", "Après la boulangerie 2000 de saaba en empruntant la nouvelle voie bitumée"],
+                                               ["SHOP FRANCHISE 1200 LGTS ", "1200 LOGEMENTS", "En face de la maternite sainte camille des 1200 logements."],
+                                               ["SHOP FRANCHISE KARPALA", "Karpala", "A cote de la station OTAM nouveau goudron de karpala face au maquis fair play, juste apres les parking de la Douane. "],
+                                               ["SHOP FRANCHISE NAGRIN ", "Nagrin", "Route de Nagrin, à 100 m à droite après la cave du sud, avant la station shell"],
+                                               ["SHOP FRANCHISE CISSIN ", "Cissin", "Voie de la radio savane FM à cissin non loin du palais de la culture Jean Pierre Guingane."],
+                                               ["SHOP FRANCHISE KWAME N'KRHUMAH ", "Kwame N'krumah", "Face au restaurant la VITA , colé à atlantik bank de kwame n'krumah."],
+                                               ["SHOP EXPRESS OUAGA 2000", "Ouaga 2000", "Intérieur du centre commercial Ouaga 2000 avant l'Hotel Laico"],
+                                               ["SHOP EXPRESS TAMPOUY", "Tampouy", "Av Yatenga en face de la station total à 500 m du rond point de tampouy, route Ouahigouya côté gauche."],
+                                               ["SHOP FRANCHISE TANGHIN", "Tanghin", "Avenue de la concorde nationale (voie de toudouweogo) à 50 m de la station oryx"],
+                                               ["SHOP FRANCHISE DASSASGHO", "Dassasgho", "Dassasgho non loin de la station Total à côté de l'échangeur de l' EST"],
+                                               ["SHOP FRANCHISE GOUGHIN", "Goughin", "Goughin, avant l'echangeur en allant à Bobo."],
+                                               ["SHOP FRANCHISE KOULOUBA", "Koulouba", "Rez de chaussé Immeuble Obama à Koulouba"],
+                                               ["SHOP FRANCHISE KOURITENGA", "Kouritenga", "A Kouritenga, sur la voie entre Petrofa Ouaga 2000 et le château de cissin ( Feu carrefour bonheur ville) à 500m de la station shell sur le coté droit"],
+                                               ["Shop Espoir Telecom ", "Ouahigouya", "En face de l'alimentation Bon Samaritin"],
+                                               ["Shop TAOFIC Koupela", "Koupela", "A cote du rompoint de koupéla route de Fada N'Gourma "],
+                                               ["Shop TBD Cikasso sira", "Bobo", "A 200 m du marche de fruits,quartier Cikasso sira"],
+                                               ["Shop SAGA Belle-ville", "Bobo", "A 800 m du marché de Belle-Ville"],
+                                               ["Shop TBD Kua", "Bobo", "Route nationale N°1, quartier Kua "],
+                                               ["Shop TBD Ouézzin-ville", "Bobo", "En face de station TOTAL de Bindougousso"],
+                                               ["Shop SAGA Nienèta/ Bobo", "Bobo", "En face de la station Access Oil et 100 m de l'agence Coris Bank,Quartier Farakan "],
+                                               ["Shop Grâce Telecom Fada", "Fada", "Fada, côté Nord-ouest du marché central de Fada"],
+                                               ["Shop ESANIF  Distribution  Dédougou", "Dédougou", "Rue 10 coté Ouest du marché à 150 m de l'hôtel Zind-Naaba "],
+                                               ["Shop OYAC Kaya", "Kaya", "Coté nord a 50m de la station total  du marche "],
+                                               ["Shop Hayette Koudougou", "Koudougou", "Situé à koudougou sur la Naltionale 14 ( RN14) en venant de Ouaga et à 300 m de l'hôtel BENEBSOUKA"],
+                                               ["Shop Omega Tenkodogo", "Tenkodogo", "Route de Nationale allant a Bittou juste avant l'hotel Tielba"],
+                                               ["Shop BARRO Banfora", "Banfora", "A 500 m de la gare Rahimo en allant vers la place de la Nation "],
+                                               ["Shop agence Maiga Zakaria", "Ouahigouya", "Rez de chaussée de agence de Ouahigouya, en face de la cathédrale de Ouahigouya"],
+                                               ["Shop agence Gaoua", "Gaoua", "Route nationale N°12, à proximité de l'Agence ECOBANK"],
+                                               ["Boutique Sali Telcom", "Kaya", "En face de l'alimentation koom / kaya secteur 1"],
+                                               ["Boutique Veza Telecom", "Dori", "A cote de la commissariat central de dori"],
+                                               ["Boutique Diao Zenabou", "Dori", "A cote de l'agence boa dori"],
+                                               ["Boutique Sodre Mahamady", "Ziniare", "A 150m cote nord du commissariat central "],
+                                               ["Boutique Zono Daouda", "Kongoussi", "Face au lac bam a 50m du grand marche"],
+                                               ["Boutique Belem Boukary", "Djibo", "A 100m du marche cote ouest a 20m cote nord de l'ancien rondpoint"],
+                                               ["Boutique Zoundi Salfo", "Loumbila", "A 150m du pont pieton en allant a ouaga"],
+                                               ["CHALLENGE DISTRIBUTION", "Koudougou", "Situé à koudougou sur l'avenue Dreux à 100 m de la station Total (ancienne Autogare)"],
+                                               ["ESRF", "Koudougou", "Situé à koudougou sur la Naltionale 14 ( RN14) au rond point de l'école Tal M'Bi en allant vers l'université Norbert ZONGO."]
+                                            ]
+                                },
+                                {
+                                    "Nom":"Liste des VAS activés sur un numéro",
+                                    "Description du produit":"Procédé de consultation par l'abonné de la liste des SVA ou activés VAS sur son numéro via les canaux VOIX/SMS/USSD",
+                                    "Procédure de souscription": "<br>Envoyer par SMS le mot clé «List» ou tout autre mot clé au 454 <br>"
+                                    },
+                                    {
+                                        "Nom": "Orange Money - Grille Tarifaire TRANSFERT D'ARGENT - INTERNATIONAL",
+                                        "Tableau": [
+                                            ["Tranche de transaction", "Réception Transfert", "Frais"],
+                                            ["500", "25 000", "Gratuit", "500"],
+                                            ["25 001", "50 000", "Gratuit", "1 000"],
+                                            ["50 001", "100 000", "Gratuit", "2 000"],
+                                            ["100 001", "200 000", "Gratuit", "3 000"],
+                                            ["200 001", "400 000", "Gratuit", "5 000"],
+                                            ["400 001", "1 000 000", "Gratuit", "9 000"]
+                                        ]
+                                    },
+
+                                    {
+                                        "Nom": "Le roaming ou données mobiles en itinérance",
+                                        "Description du produit": "<br>Le roaming regroupe toutes les communications  réalisées avec votre téléphone mobile depuis un pays étranger (appels, SMS, MMS, surf internet) <br> C'est l'utilisation des services mobiles depuis l'étranger. Orange vous permet de rester joignable sur votre numéro à l’étranger avec son option Roaming. <br>Avec une carte SIM prepayée, les appels passés depuis l'étranger sont décomptés de votre crédit d'appels et facturés aux tarifs roaming qui varient selon les opérateurs des pays visités. <br>",
+                                        "Procédure de souscription": "Avant de partir, Il faut s'assurer de la disponibilité des services (voix, SMS, Internet). Spécifiquement pour les postpaid, il faut aussi consulter votre gestionnaire de compte pour s'assurer que le service roaming est activé. <br> Voici  la liste des partenaires roaming",
+                                        "Tableau": [
+                                   ["PAYS", "CHOIX RESEAU", "Appel en Local (FCFA/min)", "Appel vers Burkina (FCFA/min)", "Appel vers RoW (FCFA/min)", "Envoi SMS (FCFA/sms)", "Réception d'Appel (FCFA/min)"],
+                                   ["CÔTE D'IVOIRE", "Orange CI", 130, 210, 395, 80, "2F/1s"],
+                                   ["MALI", "Orange Mali", 130, 265, 395, 80, "1F/1s"],
+                                   ["SENEGAL", "Orange Sénégal", 130, 265, 395, 80, "1F/1s"],
+                                   ["GUINEE CONAKRY", "Orange Guinée", 130, 265, 395, 80, "3F/1s"],
+                                   ["GHANA", "Airtel Ghana", 130, 265, 395, 80, "3F/1s"],
+                                   ["NIGER", "Airtel Niger", 130, 265, 395, 80, "3F/1s"],
+                                   ["NIGERIA", "Airtel Nigeria", 130, 265, 395, 80, "3F/1s"],
+                                   ["RDC", "Airtel DRC", 315, 525, 735, 80, "4F/1s"],
+                                   ["CONGO B", "Airtel Congo B", 315, 525, 735, 80, "4F/1s"],
+                                   ["GABON", "Airtel Gabon", 315, 525, 735, 80, "4F/1s"],
+                                   ["KENYA", "Airtel Kenya", 315, 525, 735, 80, "4F/1s"],
+                                   ["MADAGASCAR", "Airtel Madagascar", 315, 525, 735, 80, "4F/1s"],
+                                   ["MALAWI", "Airtel Malawi", 210, 420, 630, 80, "3F/1s"],
+                                   ["RWANDA", "Airtel Rwanda", 315, 525, 735, 80, "4F/1s"],
+                                   ["SIERRA LEONE", "Airtel Sierra Leone", 130, 265, 395, 80, "3F/1s"],
+                                   ["TANZANIE", "Airtel Tanzania", 210, 420, 630, 80, "3F/1s"],
+                                   ["TCHAD", "Airtel Tchad", 210, 420, 630, 80, "3F/1s"],
+                                   ["OUGANDA", "Airtel Uganda", 315, 525, 735, 80, "4F/1s"],
+                                   ["ZAMBIE", "Airtel Zambia", 315, 525, 735, 80, "4F/1s"],
+                                   ["SEYCHELLES", "Airtel Seychelles", 315, 525, 735, 80, "4F/1s"]
+                               ]
+                                    },
+                                    {
+                                        "Nom":"La TV Mobile d’Orange",
+                                        "Description du produit":"La TV Mobile d’Orange, c’est un riche bouquet de chaînes disponibles sur l’application «TV Mobile d' Orange» à télécharger gratuitement sur Play store . <br> <br> La TV Mobile d’Orange, c’est du cinéma, de la musique, des Novelas, du contenu jeunesse… pour vous faire profiter de vos programmes préférés partout où vous serez et sans consommation de mégas.",
+                                        "Procédure de souscription": "<br>Pour profiter de la TV Mobile d'Orange, il vous suffit de souscrire à un abonnement jour ou semaine .<br> <br> Coût de la souscription au Pass TV:<br>200F CFA TTC / jour <br>1250F CFA TTC/ semaine <br>4500F CFA TTC / mois <br>Coût de la souscription au Pass TV Bouquet Sport: <br> <br>600F CFA TTC / jour <br>2000F CFA TTC/ semaine <br>5000F CFA TTC / mois <br>"
+                                        }
+                
+
      ]
  }
