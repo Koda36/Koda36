@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Interface</title>
+    <style>
+        body {
+            font-family: Century Gothic, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1, h2 {
+            text-align: left;
+            color: #333;
+        }
+        section {
+            background: #fff;
+            padding: 15px;
+            margin: 15px auto;
+            width: 95%;
+            max-width: 1200px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        input[type="text"],
+        textarea,
+        button,
+        input[type="file"] {
+            display: block;
+            width: calc(100% - 20px);
+            margin: 8px 0;
+            padding: 8px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+        button {
+            background: #000;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            width: auto;
+            padding: 8px 16px;
+            font-size: 14px;
+        }
+        button:hover {
+            background: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 8px 0;
+            font-size: 14px;
+            color: #333;
+        }
+        table, th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .actions {
+            display: flex;
+            justify-content: space-between;
+        }
+        #searchOffer {
+            width: calc(50% - 20px);
+            font-size: 14px;
+        }
+        #newOfferName,
+        #newOfferDescription,
+        #newOfferProcedure,
+        #newOfferAdvantages,
+        #newOfferPrice,
+        #newOfferImage {
+            width: calc(50% - 20px);
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Admin Interface</h1>
+
+    <section>
+        <h2>Ajouter une Nouvelle Offre</h2>
+        <input type="text" id="newOfferName" placeholder="Nom de l'offre">
+        <textarea id="newOfferDescription" placeholder="Description du produit"></textarea>
+        <textarea id="newOfferProcedure" placeholder="Procédure de souscription"></textarea>
+        <textarea id="newOfferAdvantages" placeholder="Avantages"></textarea>
+        <input type="text" id="newOfferPrice" placeholder="Prix">
+        <input type="file" id="newOfferImage">
+        <button id="addOfferButton">Ajouter l'offre</button>
+    </section>
+
+    <section>
+        <h2>Modifier le Carrousel</h2>
+        <div id="carouselDetails"></div>
+        <button id="updateCarouselButton">Mettre à jour le carrousel</button>
+    </section>
+
+    <section>
+        <h2>Modifier ou supprimer une offre</h2>
+        <input type="text" id="searchOffer" placeholder="Rechercher une offre...">
+        <button id="searchButton">Rechercher</button>
+        <table id="offerTable">
+            <thead>
+                <tr>
+                    <th>Nom</th>
+                    <th>Description</th>
+                    <th>Procédure</th>
+                    <th>Avantages</th>
+                    <th>Prix</th>
+                    <th>Image</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="offerDetails"></tbody>
+        </table>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const dataUrl = 'data.json';
+            let offers = [];
+
+            const searchInput = document.getElementById('searchOffer');
+            const searchButton = document.getElementById('searchButton');
+            const offerTable = document.getElementById('offerDetails');
+            const addOfferButton = document.getElementById('addOfferButton');
+
+            function loadOffers() {
+                fetch(dataUrl)
+                    .then(response => response.json())
+                    .then(data => {
+                        offers = data.ProduitsServices || [];
+                    })
+                    .catch(error => console.error('Error loading data:', error));
+            }
+
+            function displayOffers(offers) {
+                offerTable.innerHTML = '';
+                offers.forEach((offer, index) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = 
+                        <td>${offer.Nom}</td>
+                        <td>${offer['Description du produit']}</td>
+                        <td>${offer['Procédure de souscription']}</td>
+                        <td>${offer.Avantages}</td>
+                        <td>${offer.Prix}</td>
+                        <td><img src="${offer.img || ''}" alt="${offer.Nom}" width="50"></td>
+                        <td class="actions">
+                            <button onclick="editOffer(${index})">Modifier</button>
+                            <button onclick="deleteOffer(${index})">Supprimer</button>
+                        </td>
+                    ;
+                    offerTable.appendChild(row);
+                });
+            }
+
+            function editOffer(index) {
+                const offer = offers[index];
+                document.getElementById('newOfferName').value = offer.Nom;
+                document.getElementById('newOfferDescription').value = offer['Description du produit'];
+                document.getElementById('newOfferProcedure').value = offer['Procédure de souscription'];
+                document.getElementById('newOfferAdvantages').value = offer.Avantages;
+                document.getElementById('newOfferPrice').value = offer.Prix;
+                // Set image if needed
+                addOfferButton.setAttribute('data-edit-index', index);
+                addOfferButton.textContent = 'Mettre à jour l\'offre';
+            }
+
+            function deleteOffer(index) {
+                offers.splice(index, 1);
+                saveOffers();
+                displayOffers(offers);
+            }
+
+            function saveOffers() {
+                fetch(dataUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ ProduitsServices: offers })
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('Data saved:', data);
+                    })
+                    .catch(error => console.error('Error saving data:', error));
+            }
+
+            searchButton.addEventListener('click', function() {
+                const query = searchInput.value.toLowerCase();
+                const filteredOffers = offers.filter(offer => offer.Nom.toLowerCase().includes(query));
+                displayOffers(filteredOffers);
+            });
+
+            addOfferButton.addEventListener('click', function() {
+                const offer = {
+                    Nom: document.getElementById('newOfferName').value,
+                    'Description du produit': document.getElementById('newOfferDescription').value,
+                    'Procédure de souscription': document.getElementById('newOfferProcedure').value,
+                    Avantages: document.getElementById('newOfferAdvantages').value,
+                    Prix: document.getElementById('newOfferPrice').value,
+                    img: document.getElementById('newOfferImage').files[0] ? URL.createObjectURL(document.getElementById('newOfferImage').files[0]) : ''
+                };
+
+                const editIndex = addOfferButton.getAttribute('data-edit-index');
+                if (editIndex) {
+                    offers[editIndex] = offer;
+                    addOfferButton.removeAttribute('data-edit-index');
+                    addOfferButton.textContent = 'Ajouter l\'offre';
+                } else {
+                    offers.push(offer);
+                }
+
+                saveOffers();
+                displayOffers(offers);
+            });
+
+            loadOffers();
+        });
+    </script>
+</body>
+</html>

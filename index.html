@@ -103,14 +103,27 @@
             margin-top: 0.5rem;
             box-sizing: border-box;
         }
-        .styled-table th, .styled-table td {
-    border: 1px solid #dddddd;
+        .styled-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+.styled-table th, .styled-table td {
+    border: 1px solid #0e0e0e;
     padding: 8px;
 }
 
 .styled-table th {
-    background-color: #f2f2f2;
+    background-color: #7b7b7b;
 }
+
+.description {
+    margin: 10px 0;
+}
+
         .note {
             background-color: #fffccc;
             padding: 0.5rem;
@@ -269,7 +282,7 @@
             console.log('DOM content loaded');
             let data = [];
         
-            fetch('data.json')
+            fetch('admin/data.json')
                 .then(response => {
                     console.log('Fetch response received');
                     return response.json();
@@ -398,15 +411,15 @@
                 h4.textContent = selectedData.Nom;
         
                 const description = selectedData["Description du produit"] ?
-                    `<p class="description">Description : ${selectedData["Description du produit"].replace(/\n/g, '<br>')}</p>` : '';
+                    `<p class="description"><strong>Description :</strong> ${selectedData["Description du produit"].replace(/\n/g, '<br>')}</p>` : '';
                 const procedure = selectedData["Procédure de souscription"] ?
-                    `<p class="description">Procédure de souscription : ${selectedData["Procédure de souscription"].replace(/\n/g, '<br>')}</p>` : '';
+                    `<p class="description"><strong>Procédure de souscription :</strong> ${selectedData["Procédure de souscription"].replace(/\n/g, '<br>')}</p>` : '';
                 const price = selectedData.Prix ?
-                    `<p class="description">Prix : ${selectedData.Prix}</p>` : '';
+                    `<p class="description"><strong>Prix :</strong> ${selectedData.Prix}</p>` : '';
                 const advantages = selectedData.Avantages ?
-                    `<p class="description">Avantages : ${selectedData.Avantages.replace(/\n/g, '<br>')}</p>` : '';
+                    `<p class="description"><strong>Avantages :</strong> ${selectedData.Avantages.replace(/\n/g, '<br>')}</p>` : '';
                 const link = selectedData.link ?
-                    `<p class="description">Pour aller plus loin : <a href="#" class="search-link" data-search="${selectedData.link}">${selectedData.link}</a></p>` : '';
+                    `<p class="description"><strong>Pour aller plus loin :</strong> <a href="#" class="search-link" data-search="${selectedData.link}">${selectedData.link}</a></p>` : '';
                 const img = selectedData.img ?
                     `<img src="${selectedData.img}" alt="${selectedData.Nom}" class="product-image">` : '';
         
@@ -414,7 +427,7 @@
                 
                 if (selectedData.Tableau) {
                     const table = document.createElement('table');
-                    table.classList.add('styled-table'); // Add this line to add a class to the table
+                    table.classList.add('styled-table');
                     selectedData.Tableau.forEach(row => {
                         const tr = document.createElement('tr');
                         row.forEach(cell => {
@@ -423,6 +436,7 @@
                             tr.appendChild(td);
                         });
                         table.appendChild(tr);
+                        
                     });
                     li.appendChild(table);
                 }
@@ -431,6 +445,7 @@
             }
         });
         </script>
+        
         
         
     
