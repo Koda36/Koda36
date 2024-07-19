@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Se connecter - ADKONTACT BF</title>
+    <style>
+        /* CSS inclus ici */
+        body {
+            background: #d7d5d5;
+            font-family: "Century Gothic", sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .login-wrap {
+            width: 100%;
+            max-width: 300px;
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.3);
+            border-radius: 8px;
+        }
+        .login-wrap h2 {
+            margin-bottom: 20px;
+            font-size: 24px;
+            font-weight: 700;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-control {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        .btn {
+            background: #383838;
+            color: #fff;
+            border: none;
+            padding: 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            text-align: center;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background: #738da9;
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+            text-align: center;
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            color: #040404;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-wrap">
+        <h2>Connexion</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <input type="text" id="cuid" class="form-control" placeholder="CUID" required>
+            </div>
+            <div class="form-group">
+                <input type="password" id="password" class="form-control" placeholder="Mot de passe" required>
+            </div>
+            <button type="submit" class="btn">Se connecter</button>
+            <div id="error" class="error"></div>
+        </form>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p>ADKONTACT - BF</p>
+        </div>
+    </footer>
+    <script src="authLogout.js" defer></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('loginForm').addEventListener('submit', handleLogin);
+        });
+    </script>
+</body>
+</html>
