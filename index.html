@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tableau de Bord │ Service OBF</title>
+    <script src="authLogout.js" defer></script>
     <style>
         body {
             font-family: "Century Gothic", sans-serif;
@@ -278,10 +279,14 @@
     </div>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            console.log('DOM content loaded');
+        document.addEventListener('DOMContentLoaded', () => {
+            // Vérifie si l'utilisateur est authentifié
+            initializeAuth();
+    
+            // Initialisation des variables
             let data = [];
-        
+    
+            // Chargement des données
             fetch('admin/data.json')
                 .then(response => {
                     console.log('Fetch response received');
@@ -297,22 +302,23 @@
                     }
                 })
                 .catch(error => console.error('Erreur lors du chargement des données :', error));
-        
+    
+            // Gestion de la recherche
             const searchInput = document.getElementById('search');
             const suggestionsList = document.getElementById('suggestionsList');
             const resultsList = document.getElementById('resultsList');
             const carousel = document.getElementById('carousel');
-        
-            searchInput.addEventListener('input', function() {
+    
+            searchInput.addEventListener('input', () => {
                 console.log('Search input event triggered');
                 const query = searchInput.value.toLowerCase().trim();
                 console.log('Query:', query);
-        
+    
                 if (query === '') {
                     suggestionsList.innerHTML = '<li>Entrez un mot clé pour commencer la recherche</li>';
                     return;
                 }
-        
+    
                 const suggestions = data.map(item => item.Nom).filter(suggestion => {
                     if (typeof suggestion === 'string') {
                         return suggestion.toLowerCase().includes(query);
@@ -320,7 +326,7 @@
                     return false;
                 });
                 console.log('Suggestions:', suggestions);
-        
+    
                 suggestionsList.innerHTML = '';
                 suggestions.slice(0, 12).forEach(suggestion => {
                     const li = document.createElement('li');
@@ -328,22 +334,22 @@
                     suggestionsList.appendChild(li);
                 });
             });
-        
-            suggestionsList.addEventListener('click', function(event) {
+    
+            suggestionsList.addEventListener('click', (event) => {
                 if (event.target.tagName === 'LI') {
                     const selectedNom = event.target.textContent;
                     console.log('Selected suggestion:', selectedNom);
-        
+    
                     const selectedData = data.find(item => item.Nom === selectedNom);
                     console.log('Selected Data:', selectedData);
-        
+    
                     if (selectedData) {
                         displayResults(selectedData);
                     }
                 }
             });
-        
-            resultsList.addEventListener('click', function(event) {
+    
+            resultsList.addEventListener('click', (event) => {
                 if (event.target.classList.contains('search-link')) {
                     event.preventDefault();
                     const searchQuery = event.target.getAttribute('data-search');
@@ -354,14 +360,15 @@
                     }
                 }
             });
-        
+    
+            // Initialisation du carousel
             const promotions = [
                 { title: 'Pass Tik Tok', img: '/Images/giga_vacances.jpeg', description: 'Des Giga forfaits à prix réduit, pour surfer au calme sur Tik Tok avec 1Go à 300 FCFA' },
                 { title: 'Promo Orange Money', img: '/Images/promo_om.jpeg', description: '500 000 FCFA à gagner jusqu au 17 juillet 2024. Envoies ton prénom par SMS au 202 ou tape *202# pour tenter ta chance.' },
                 { title: 'Promotion Carte Visa', img: '/Images/promo_cartevisa.jpeg', description: 'Jusqu au 31 juillet 2024, la Carte VISA Orange Money est au prix exceptionnel de 5 000 FCFA 😍 au lieu de 10 000 FCFA' },
                 { title: 'Tecno Pop7 à seulement 46 000 FCFA', img: '/Images/tecno_pop7.jpeg', description: 'Offre valable dans les boutiques Orange et Tecno. Pour un achat effectué, obtenez 10 Go/mois pendant 3 mois en composant *602#' }
             ];
-        
+    
             promotions.forEach(promotion => {
                 const item = document.createElement('div');
                 item.className = 'carousel-item';
@@ -376,12 +383,13 @@
                 item.appendChild(p);
                 carousel.appendChild(item);
             });
-        
+    
+            // Gestion des notes
             const saveNoteButton = document.getElementById('saveNote');
             const noteInput = document.getElementById('noteInput');
             const notesList = document.getElementById('notesList');
-        
-            saveNoteButton.addEventListener('click', function(event) {
+    
+            saveNoteButton.addEventListener('click', (event) => {
                 event.preventDefault();
                 console.log('Save note button clicked');
                 const noteText = noteInput.value.trim();
@@ -389,27 +397,28 @@
                     const note = document.createElement('div');
                     note.classList.add('note');
                     note.textContent = noteText;
-        
+    
                     const deleteButton = document.createElement('button');
                     deleteButton.classList.add('delete-note');
                     deleteButton.textContent = 'X';
-                    deleteButton.addEventListener('click', function() {
+                    deleteButton.addEventListener('click', () => {
                         notesList.removeChild(note);
                     });
-        
+    
                     note.appendChild(deleteButton);
                     notesList.appendChild(note);
                     noteInput.value = '';
                 }
             });
-        
+    
+            // Fonction pour afficher les résultats de la recherche
             function displayResults(selectedData) {
                 resultsList.innerHTML = '';
-        
+    
                 const li = document.createElement('li');
                 const h4 = document.createElement('h4');
                 h4.textContent = selectedData.Nom;
-        
+    
                 const description = selectedData["Description du produit"] ?
                     `<p class="description"><strong>Description :</strong> ${selectedData["Description du produit"].replace(/\n/g, '<br>')}</p>` : '';
                 const procedure = selectedData["Procédure de souscription"] ?
@@ -422,9 +431,9 @@
                     `<p class="description"><strong>Pour aller plus loin :</strong> <a href="#" class="search-link" data-search="${selectedData.link}">${selectedData.link}</a></p>` : '';
                 const img = selectedData.img ?
                     `<img src="${selectedData.img}" alt="${selectedData.Nom}" class="product-image">` : '';
-        
+    
                 li.innerHTML = `${img}<div class="result-details">${description}${procedure}${price}${advantages}${link}</div>`;
-                
+    
                 if (selectedData.Tableau) {
                     const table = document.createElement('table');
                     table.classList.add('styled-table');
@@ -436,18 +445,14 @@
                             tr.appendChild(td);
                         });
                         table.appendChild(tr);
-                        
                     });
                     li.appendChild(table);
                 }
-                
+    
                 resultsList.appendChild(li);
             }
         });
-        </script>
-        
-        
-        
+    </script>  
     
 </body>
 </html>
